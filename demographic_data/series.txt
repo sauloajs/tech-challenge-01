@@ -1,0 +1,46 @@
+Series Name	Series Code
+Food exports (% of merchandise exports)	TX.VAL.FOOD.ZS.UN
+Food imports (% of merchandise imports)	TM.VAL.FOOD.ZS.UN
+Food production index (2014-2016 = 100)	AG.PRD.FOOD.XD
+Grape production tonnes	GRAPE.PROD
+Wine production (Kiloliters)	WINE.PROD
+Population, total	SP.POP.TOTL
+Population ages 00-04, female	SP.POP.0004.FE
+Population ages 00-04, male	SP.POP.0004.MA
+Population ages 05-09, female	SP.POP.0509.FE
+Population ages 05-09, male	SP.POP.0509.MA
+Population ages 10-14, female	SP.POP.1014.FE
+Population ages 10-14, male	SP.POP.1014.MA
+Population ages 15-19, female	SP.POP.1519.FE
+Population ages 15-19, male	SP.POP.1519.MA
+Population ages 20-24, female	SP.POP.2024.FE
+Population ages 20-24, male	SP.POP.2024.MA
+Population ages 25-29, female	SP.POP.2529.FE
+Population ages 25-29, male	SP.POP.2529.MA
+Population ages 30-34, female	SP.POP.3034.FE
+Population ages 30-34, male	SP.POP.3034.MA
+Population ages 35-39, female	SP.POP.3539.FE
+Population ages 35-39, male	SP.POP.3539.MA
+Population ages 40-44, female	SP.POP.4044.FE
+Population ages 40-44, male	SP.POP.4044.MA
+Population ages 45-49, female	SP.POP.4549.FE
+Population ages 45-49, male	SP.POP.4549.MA
+Population ages 50-54, female	SP.POP.5054.FE
+Population ages 50-54, male	SP.POP.5054.MA
+Population ages 55-59, female	SP.POP.5559.FE
+Population ages 55-59, male	SP.POP.5559.MA
+Population ages 60-64, female	SP.POP.6064.FE
+Population ages 60-64, male	SP.POP.6064.MA
+Population ages 65-69, female	SP.POP.6569.FE
+Population ages 65-69, male	SP.POP.6569.MA
+Population ages 70-74, female	SP.POP.7074.FE
+Population ages 70-74, male	SP.POP.7074.MA
+Population ages 75-79, female	SP.POP.7579.FE
+Population ages 75-79, male	SP.POP.7579.MA
+Population ages 80 and above, female	SP.POP.80UP.FE
+Population ages 80 and above, male	SP.POP.80UP.MA
+GDP per capita (current US$)	NY.GDP.PCAP.CD
+GDP per capita growth (annual %)	NY.GDP.PCAP.KD.ZG
+Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)	SH.ALC.PCAP.LI
+Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)	SH.ALC.PCAP.FE.LI
+Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)	SH.ALC.PCAP.MA.LI
