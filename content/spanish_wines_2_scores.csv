@@ -1,0 +1,501 @@
+product,grape,score,avg_price_liter
+"Vega  Sicilia Unico Gran Reserva, Ribera del Duero",  Tempranillo  ,95,622.67
+"Bodegas Zugober Belezos 50/50, Rioja  DOCa",  Rioja Red Blend  ,88,74.67
+"R. Lopez de  Heredia Vina Tondonia Reserva, Rioja DOCa",  Rioja Red Blend  ,93,346.67
+"La Rioja Alta S.A. Gran  Reserva 904, Rioja DOCa",  Rioja Red Blend  ,93,536.0
+"Marques  de Murrieta Castillo Ygay Gran Reserva Especial, Rioja DOCa",  Rioja Red Blend  ,93,93.33
+"Vega  Sicilia Tinto Valbuena 5, Ribera del Duero",  Tempranillo  ,94,1245.33
+"La Rioja Alta S.A. Vina  Ardanza Reserva, Rioja DOCa",  Garnacha - Tempranillo  ,92,246.67
+"Dominio de Pingus  'Pingus', Ribera del Duero",  Tempranillo  ,97,241.33
+"Vega Sicilia Alion,  Ribera del Duero",  Tempranillo  ,92,684.0
+"Marques de Riscal Reserva,  Rioja DOCa",  Rioja Red Blend  ,90,132.0
+"Vega Sicilia 'Pintia',  Toro",  Tinta de Toro  ,92,494.67
+"Bodegas Muga 'Prado Enea'  Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,93,577.33
+"Dominio de Pingus  'Flor de Pingus', Ribera del Duero",  Tempranillo  ,93,741.33
+"Bodegas Faustino I Gran  Reserva, Rioja DOCa",  Rioja Red Blend  ,90,222.67
+"R.  Lopez de Heredia Vina Tondonia Reserva Blanco, Rioja DOCa",  Rioja White Blend  ,94,849.33
+"CVNE 'Imperial' Gran  Reserva, Rioja DOCa",  Tempranillo  ,92,528.0
+"La Rioja Alta S.A. Gran  Reserva 890, Rioja DOCa",  Tempranillo  ,93,1269.33
+"R. Lopez  de Heredia Vina Tondonia Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,92,710.67
+"Marques de Murrieta  Reserva, Rioja DOCa",  Rioja Red Blend  ,91,181.33
+"Dominio de Pingus  'PSI', Ribera del Duero",  Tempranillo  ,91,238.67
+"Clos Mogador Vi de  Finca, Priorat DOCa",  Red Blend  ,94,650.67
+"Bodegas Aalto, Ribera del Duero,",  Tinto Fino  ,92,354.67
+"Alvaro  Palacios L'Ermita Velles Vinyes, Priorat DOCa",  Grenache (Garnacha)  ,97,981.33
+"Bodegas Muga Reserva - Crianza,  Rioja DOCa",  Rioja Red Blend  ,91,189.33
+"R.  Lopez de Heredia Vina Tondonia Gran Reserva Rosado, Rioja DOCa",  Rioja Red Blend  ,91,849.33
+"Vega  Sicilia Unico Reserva Especial, Ribera del Duero",  Cabernet - Tempranillo  ,95.0,597.33
+"Torres Mas La Plana  Cabernet Sauvignon, Penedes",  Cabernet Sauvignon  ,92.0,510.67
+"Bodegas  Aalto P.S. Pagos Seleccionados Tinto, Ribera del Duero",  Tempranillo  ,93.0,758.67
+"Bodegas El Nido 'Clio', Jumilla,",  Mourvedre (Monastrell)  ,92.0,321.33
+"Bodegas Muga Seleccion Especial  Reserva, Rioja DOCa",  Rioja Red Blend  ,92.0,288.0
+"Bodegas Contador - Benjamin  Romeo 'Contador', Rioja DOCa",  Tempranillo  ,96.0,546.67
+"Clos i Terrasses  Clos Erasmus, Priorat DOCa",  Grenache (Garnacha)  ,96.0,661.33
+"Marques de Riscal  Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,92.0,297.33
+"R.  Lopez de Heredia Vina Tondonia 'Vina Gravonia' Crianza Blanco, Rioja DOCa",  Macabeo (Viura)  ,92.0,329.33
+"Bodegas Roda 'Roda I' Reserva, Rioja  DOCa",  Tempranillo  ,92.0,404.0
+"Artadi Vina El Pison, Alava",  Tempranillo  ,96.0,678.67
+"CVNE Vina Real Gran  Reserva, Rioja DOCa",  Rioja Red Blend  ,91.0,272.0
+"Bodega Numanthia, Toro",  Tinta de Toro  ,92.0,362.67
+"Bodegas Muga Torre Muga, Rioja DOCa,",  Rioja Red Blend  ,93.0,660.0
+Macan  Rioja DOCa,  Tempranillo  ,93.0,577.33
+Comando  G 'Rumbo al Norte' Navarrevisca Vino de la Tierra de Castilla y Leon,  Grenache (Garnacha)  ,95.0,422.67
+"La Rioja Alta S.A. Vina  Arana Gran Reserva, Rioja DOCa",  Tempranillo  ,91.0,264.0
+"Alvaro Palacios  Finca Dofi, Priorat DOCa",  Cabernet - Grenache - Merlot - Syrah  ,94.0,569.33
+"Bodega Lanzaga 'Las Beatas', Rioja  DOCa",  Red Blend  ,96.0,876.0
+"Granja  Nuestra Senora de Remelluri 'Remelluri' Reserva, Rioja DOCa",  Rioja Red Blend  ,92.0,246.67
+"R.  Lopez de Heredia Vina Tondonia 'Vina Bosconia' Reserva, Rioja DOCa",  Rioja Red Blend  ,92.0,238.67
+"Diez Merito  Bertola Cream Sherry, Andalucia",  Sherry Blend  ,88.0,82.67
+"Bodegas Alto Moncayo  Garnacha, Campo de Borja",  Grenache (Garnacha)  ,92.0,305.33
+"Tinto Pesquera  Crianza, Ribera del Duero",  Tempranillo  ,89.0,189.33
+"Diez Merito  Pemartin Medium Dry Sherry, Andalucia",  Sherry Blend  ,,49.33
+"Bodegas  Toro Albala Don PX Convento Seleccion, Montilla-Moriles",  Pedro Ximenez  ,96.0,537.33
+"La Rioja Alta S.A. Vina  Alberdi Reserva, Rioja DOCa",  Tempranillo  ,90.0,156.0
+"R.  Lopez de Heredia Vina Tondonia Gran Reserva Blanco, Rioja DOCa",  Macabeo (Viura)  ,93.0,705.33
+Jodhpur London Dry Gin,  Gin  ,,181.33
+"Tinto Pesquera  Reserva, Ribera del Duero",  Tempranillo  ,90.0,329.33
+"CVNE 'Imperial' Reserva,  Rioja DOCa",  Rioja Red Blend  ,91.0,256.0
+"Pago de  Carraovejas, Ribera del Duero",  Tempranillo  ,91.0,264.0
+"Remirez de Ganuza Reserva,  Rioja DOCa",  Tempranillo  ,92.0,536.0
+"Beronia Reserva, Rioja DOCa",  Rioja Red Blend  ,89.0,132.0
+"CVNE Vinedos del  Contino 'Contino' Reserva, Rioja DOCa",  Rioja Red Blend  ,91.0,222.67
+"Dominio del Aguila  Reserva, Ribera del Duero",  Red Blend  ,94.0,494.67
+"Marques de Caceres  Crianza, Rioja DOCa",  Tempranillo  ,88.0,90.67
+"Dominio  del Aguila Vinas Viejas Albillo, Ribera del Duero",  Albillo  ,95.0,741.33
+"Marques de Murrieta Gran  Reserva, Rioja DOCa",  Rioja Red Blend  ,92.0,420.0
+"Torres Gran  Coronas Cabernet Sauvignon Reserva, Penedes",  Cabernet Sauvignon  ,88.0,124.0
+"CVNE 'Cune' Gran Reserva, Rioja  DOCa",  Rioja Red Blend  ,90.0,222.67
+"Macan Clasico, Rioja DOCa",  Tempranillo  ,92.0,354.67
+"Descendientes  de J. Palacios La Faraona, Bierzo",  Mencia  ,97.0,101.33
+"Casa Castillo  Monastrell Pie Franco, Jumilla",  Monastrell  ,94.0,660.0
+"Marques  de Murrieta Castillo Ygay Blanco Gran Reserva Especial, Rioja DOCa",  Rioja White Blend  ,96.0,25.33
+"CVNE Vinedos  del Contino 'Contino' Vina del Olivo, Rioja DOCa",  Tempranillo  ,93.0,478.67
+Bodegas Mauro 'Mauro'  Vino Tinto de la Tierra de Castilla y Leon,  Tempranillo  ,91.0,264.0
+"El Coto 'Coto de Imaz'  Gran Reserva, Rioja DOCa",  Tempranillo  ,90.0,189.33
+"El Coto 'Coto de Imaz'  Reserva, Rioja DOCa",  Tempranillo  ,88.0,116.0
+"R.  Lopez de Heredia Vina Tondonia 'Vina Cubillo' Crianza, Rioja DOCa",  Rioja Red Blend  ,90.0,165.33
+"Esteban Martin Garnacha - Syrah,",  Grenache - Syrah  ,86,57.33
+"Bodega Numanthia  'Termanthia', Toro",  Tinta de Toro  ,93,174.67
+"Marques de Caceres  Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,90,214.67
+"Espectacle del Montsant, Montsant,",  Grenache (Garnacha)  ,94,774.67
+"Marques de Murrieta  'Dalmau' Reserva, Rioja DOCa",  Rioja Red Blend  ,93,642.67
+"Bodegas Faustino V Reserva, Rioja DOCa,",  Rioja Red Blend  ,88,124.0
+"Bodegas Roda Reserva, Rioja DOCa,",  Rioja Red Blend  ,91,230.67
+Comando G 'La  Bruja de Rozas' Sierra de Gredos,  Grenache (Garnacha)  ,90,206.67
+"Terroir Al Limit  Soc. Lda. Les Manyes, Priorat DOCa",  Grenache (Garnacha)  ,95,1310.67
+"Dominio  del Aguila 'Penas Aladas' Gran Reserva, Ribera del Duero",  Tempranillo  ,96,224.0
+"Descendientes  de J. Palacios 'Petalos', Bierzo",  Mencia  ,90,132.0
+"Alvaro  Palacios 'Les Terrasses' Velles Vinyes, Priorat DOCa",  Carignan - Grenache - Syrah  ,92,256.0
+"Bodegas San Roman, Toro",  Tinta de Toro  ,92,230.67
+"Raul  Perez 'La Vitoriana' Lomas de Valtuille, Bierzo",  Mencia  ,93,214.67
+"Casa Castillo Las Gravas,  Jumilla",  Mourvedre (Monastrell)  ,92,305.33
+"Marques de  Riscal 'Baron de Chirel' Reserva, Rioja DOCa",  Tempranillo  ,93,536.0
+"Ferrer  Bobet Seleccio Especial Vinyes Velles, Priorat DOCa",  Carignan (Carinena)  ,93,601.33
+"Bodegas El Nido 'El Nido', Jumilla",  Red Blend  ,93,981.33
+"Vinedos de Paganos La Nieta,  Rioja DOCa",  Tempranillo  ,95,832.0
+"Bodegas Hacienda  Monasterio, Ribera del Duero",  Red Blend  ,92,288.0
+"Bodegas Rafael  Palacios Sorte O Soro, Valdeorras",  Godello  ,95,801.33
+"Bodegas Campo Viejo Tempranillo,  Rioja DOCa",  Tempranillo  ,86,65.33
+"Yjar, Rioja DOCa",  Rioja Red Blend  ,95,948.0
+"Bodegas Protos Reserva,  Ribera del Duero",  Tempranillo  ,90,214.67
+"Bodegas Campo Viejo Reserva, Rioja DOCa,",  Tempranillo  ,87,90.67
+"Bodegas Emilio Moro, Ribera  del Duero",  Tempranillo  ,89,165.33
+"Juve y  Camps Reserva de la Familia Gran Reserva Brut Nature Cava, Catalonia",  Cava Blend  ,89,116.0
+"Baron de Ley Reserva, Rioja DOCa,",  Tempranillo  ,89,106.67
+Abadia  Retuerta Seleccion Especial Vino de la Tierra de Castilla y Leon,  Cabernet - Syrah - Tempranillo  ,91,214.67
+"Clos i  Terrasses Clos Erasmus 'Laurel', Priorat DOCa",  Cabernet - Grenache - Syrah  ,92,362.67
+"Bodegas  Rafael Palacios 'As Sortes Val do Bibei' Godello, Valdeorras",  Godello  ,93,378.67
+Bodegas  Mauro 'Terreus' Paraje de Cueva Baja Vino de la Tierra de Castilla y Leon,  Tempranillo  ,94,800.0
+"Senorio de San Vicente  Tempranillo, Rioja DOCa",  Tempranillo  ,93,388.0
+Bodegas  Mauro 'Mauro VS' Vendimia Seleccionada Vino de la Tierra de Castilla y Leon,  Tempranillo  ,93,544.0
+"Comando  G 'Tumba del Rey Moro' Villa Nueva de Avila, Castilla y Leon",  Grenache (Garnacha)  ,94,1049.33
+"Comando  G 'Rozas Premier-Primer Cru' Sierra de Gredos, Madrid",  Grenache (Garnacha)  ,92,412.0
+"Marques de Caceres Reserva,  Rioja DOCa",  Rioja Red Blend  ,90,132.0
+"Mas Martinet 'Clos  Martinet' Tinto, Priorat DOCa",  Red Blend  ,93,510.67
+Felix Solis 'Mucho Mas' Tinto,  Syrah - Tempranillo  ,88,41.33
+"Marques de Murrieta  'Capellania' Reserva, Rioja DOCa",  Macabeo (Viura)  ,92,396.0
+"Bodegas LAN Gran Reserva, Rioja DOCa,",  Carignan - Grenache - Tempranillo  ,90,165.33
+"Bodegas Juan  Gil 12 Meses Silver Label Monastrell, Jumilla",  Monastrell  ,91,90.67
+"Comando G Las Umbrias, Madrid",  Grenache (Garnacha)  ,93,192.0
+"Raul Perez  Ultreia Saint Jacques, Bierzo",  Mencia  ,90,132.0
+"El Coto Crianza, Rioja DOCa,",  Tempranillo  ,87,82.67
+"Bodegas Juan  Gil 18 Meses Blue Label Monastrell, Jumilla",  Monastrell  ,91,214.67
+"Beronia Gran Reserva, Rioja DOCa,",  Tempranillo  ,90,222.67
+"Bodegas  Toro Albala Don PX Gran Reserva, Montilla-Moriles",  Pedro Ximenez  ,91,437.33
+"Torres Sangre de Toro  Original, Catalonia",  Carinena - Garnacha  ,85,65.33
+"CVNE 'Cune' Crianza, Rioja DOCa,",  Rioja Red Blend  ,88,90.67
+"Freixenet  Cordon Negro Gran Seleccion Brut Cava, Catalonia",  Cava Blend  ,86,73.33
+"Torres  'Pago del Cielo' Celeste Crianza, Ribera del Duero",  Tempranillo  ,89,138.67
+"Bodegas  Palacios Remondo 'Finca La Montesa', Rioja DOCa",  Rioja Red Blend  ,90,114.67
+"Descendientes  de J. Palacios Villa de Corullon, Bierzo",  Mencia  ,92,301.33
+"Bodega Numanthia Termes, Toro,",  Tinta de Toro  ,91,162.67
+"Licor 43 Cuarenta y Tres Liqueur,",  Liqueur - Fruit  ,88,170.67
+"Bodegas Emilio  Moro 'Malleolus', Ribera del Duero",  Tinto Fino  ,91,277.33
+"Felix  Solis Vina Albali Reserva, Valdepenas",  Tempranillo  ,85,41.33
+"Bodegas Terras Gauda O  Rosal, Rias Baixas",  Albarino (Alvarinho)  ,90,114.67
+"CVNE 'Cune' Reserva, Rioja DOCa,",  Rioja Red Blend  ,90,146.67
+"Bodegas Riojanas Monte Real  Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,91,301.33
+"Bodegas Bilbainas Vina  Pomal Reserva, Rioja DOCa",  Tempranillo  ,89,122.67
+"Dominio del  Aguila 'Canta La Perdiz', Ribera del Duero",  Red Blend  ,97,769.33
+"CVNE Vinedos  del Contino 'Contino' Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,92,382.67
+"Segura Viudas Reserva  Heredad Brut Cava, Catalonia",  Chardonnay - Viura  ,88,178.67
+"Bodegas  Valduero 6 Anos 'Valduero' Reserva Premium, Ribera del Duero",  Tempranillo  ,92,440.0
+"Federico Paternina Gran  Reserva, Rioja DOCa",  Tempranillo  ,89,400.0
+"Alvaro  Palacios Quinon de Valmira, Rioja DOCa",  Rioja Red Blend  ,96,1112.0
+"Granja  Nuestra Senora de Remelluri 'Remelluri' Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,93,489.33
+"Bodegas Contador -  Benjamin Romeo 'La Cueva del Contador', Rioja DOCa",  Tempranillo  ,93,481.33
+"Bodegas Roda Cirsion, Rioja DOCa,",  Tempranillo  ,93,1296.0
+"Dominio  del Aguila 'Picaro del Aguila' Vinas Viejas, Ribera del Duero",  Tempranillo  ,91,212.0
+"Bodegas Alto  Moncayo 'Veraton' Garnacha, Campo de Borja",  Grenache (Garnacha)  ,91,204.0
+"Pago  de los Capellanes Tinto Reserva, Ribera del Duero",  Tempranillo  ,91,261.33
+"Bodegas  Hacienda Monasterio Reserva, Ribera del Duero",  Tempranillo  ,93,408.0
+"Torres Grans  Muralles, Conca de Barbera",  Carinena - Garnacha  ,93.0,782.67
+"Bodegas Ego 'Infinito', Jumilla,",  Red Blend  ,90.0,130.67
+"Bodegas Matarromera  Crianza, Ribera del Duero",  Tempranillo  ,89.0,162.67
+"Bodegas Muga Aro, Rioja DOCa",  Rioja Red Blend  ,94.0,370.67
+"Artadi Pagos Viejos, La Guardia,",  Tempranillo  ,92.0,594.67
+"Bodega Lanzaga 'Lanzaga', Rioja DOCa,",  Rioja Red Blend  ,92.0,196.0
+"Granja  Nuestra Senora de Remelluri 'Remelluri' Blanco, Rioja DOCa",  Rioja White Blend  ,93.0,505.33
+"Bodegas LAN Reserva, Rioja DOCa",  Tempranillo  ,89.0,122.67
+"Martin Codax Albarino,  Rias Baixas",  Albariño  ,88.0,97.33
+"Bodega Belondrade y  Lurton Verdejo, Rueda",  Verdejo  ,92.0,301.33
+"Alvaro Palacios Camins  del Priorat, Priorat DOCa",  Carignan - Grenache - Syrah  ,90.0,154.67
+"Comando G 'Las  Iruelas' El Tiemblo, Castilla y Leon",  Grenache (Garnacha)  ,93.0,986.67
+"Alfonso I Light Brandy, Andalucia,",  Brandy  ,,41.33
+"Mar de Frades Albarino,  Rias Baixas",  Albariño  ,89.0,114.67
+"Santiago Ruiz O Rosal,  Rias Baixas",  Albarino (Alvarinho)  ,88.0,122.67
+"Bodegas Arzuaga  Navarro 'Arzuaga' Crianza, Ribera del Duero",  Tempranillo  ,90.0,188.0
+"Bodegas Protos Gran  Reserva, Ribera del Duero",  Tempranillo  ,91.0,358.67
+"Condado de Haza  Crianza, Ribera del Duero",  Tempranillo  ,88.0,130.67
+"Bodegas y Vinedos  Valderiz 'Valderiz', Ribera del Duero",  Tempranillo  ,91.0,188.0
+"CVNE Vina Real Reserva,  Rioja DOCa",  Rioja Red Blend  ,91.0,154.67
+"Pazo de  Senorans Seleccion de Anada Albarino, Rias Baixas",  Albariño  ,92.0,309.33
+"Bodegas Alto  Moncayo 'Aquilon' Garnacha, Campo de Borja",  Grenache (Garnacha)  ,93.0,978.67
+"Remirez de Ganuza  Gran Reserva, Rioja DOCa",  Tempranillo  ,93.0,1272.0
+"Telmo  Rodriguez 'Matallana', Ribera del Duero",  Tempranillo  ,92.0,390.67
+"Bodegas Ramon Bilbao Crianza,  Rioja DOCa",  Tempranillo  ,88.0,73.33
+"Neleman 'Wine in Books' Blanco,  Valencia",  White Blend  ,,49.33
+"R.  Lopez de Heredia Vina Tondonia 'Vina Bosconia' Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,92.0,1226.67
+"Comando G La Brena, Madrid",  Red Blend  ,93.0,929.33
+"Descendientes  de J. Palacios Las Lamas, Bierzo",  Mencia  ,94.0,749.33
+"Bodegas Juan Gil 'Bruto'  Monastrell, Jumilla",  Monastrell  ,92.0,236.0
+"Torres Salmos, Priorat DOCa,",  Carignan - Grenache - Syrah  ,90.0,228.0
+Lolea No. 1 Sparkling Red  Sangria,  Sangria  ,83.0,89.33
+"Gran Vino Pazo  Barrantes Albarino, Rias Baixas",  Albariño  ,89.0,277.33
+"Envinate 'Taganan'  Parcela Margalagua, Canary Islands",  Red Blend  ,93.0,424.0
+"Ameztoi  Rubentis Rosado, Getariako Txakolina",  Hondarrabi Beltza  ,89.0,154.67
+"Teso La Monja  'Victorino', Toro",  Tinta de Toro  ,93.0,326.67
+"Familia  Nin-Ortiz 'Nit de Nin' Mas d'en Cacador, Priorat DOCa",  Carinena - Garnacha  ,93.0,628.0
+"Vinedos de Paganos El  Puntido, Rioja DOCa",  Tempranillo  ,93.0,408.0
+"Bodegas Ego Goru Verde - Goru  Organic, Jumilla",  Mourvedre (Monastrell)  ,88.0,73.33
+"Artadi El Carretil, Alava",  Tempranillo  ,95.0,1100.0
+"Pazo de Senorans  Albarino, Rias Baixas",  Albariño  ,89.0,122.67
+"Nordes Atlantic Galician Gin,  Galicia",  Gin  ,90.0,212.0
+"CVNE Vina Real Reserva  Especial, Rioja DOCa",  Tempranillo  ,94.0,1030.67
+"Teso La Monja  'Alabaster', Toro",  Tinta de Toro  ,95.0,969.33
+"Bodegas Borsao Tres  Picos Garnacha, Campo de Borja",  Grenache (Garnacha)  ,89.0,122.67
+Dehesa La Granja Vino  de la Tierra de Castilla y Leon,  Tempranillo  ,88.0,97.33
+"Clos  Mogador 'Manyetes' Vi de Vila Gratallops, Priorat DOCa",  Carignan (Carinena)  ,93.0,513.33
+"Bodegas Valduero  'Valduero' Una Cepa, Ribera del Duero",  Tempranillo  ,90.0,244.0
+"Bodegas Faustino VII, Rioja DOCa",  Tempranillo  ,86.0,65.33
+"Sierra Cantabria  Finca El Bosque, Rioja DOCa",  Tempranillo  ,94.0,701.33
+"Tinto  Pesquera Gran Reserva, Ribera del Duero",  Tempranillo  ,90,513.33
+"Marques de Riscal XR Reserva,  Rioja DOCa",  Tempranillo  ,92,212.0
+"Bodegas Riojanas Monte Real  Reserva, Rioja DOCa",  Tempranillo  ,89,196.0
+"Bodegas Atalaya  'Alaya Tierra', Almansa",  Grenache (Garnacha)  ,91,178.67
+"Marques de Caceres 'Gaudium',  Rioja DOCa",  Tempranillo  ,91,342.67
+"Celler  Mas Doix 'Doix' Costers de Vinyes Velles, Priorat DOCa",  Carinena - Garnacha  ,93,668.0
+"Bodegas Montecillo Gran Reserva,  Rioja DOCa",  Tempranillo  ,89,236.0
+"Bodegas Protos Crianza,  Ribera del Duero",  Tempranillo  ,89,130.67
+"Bodegas Ramon Bilbao Reserva,  Rioja DOCa",  Rioja Red Blend  ,89,114.67
+"Envinate 'Palo Blanco', Canary  Islands",  White Blend  ,93,334.67
+"Torres Purgatori, Costers  del Segre",  Carignan - Grenache - Syrah  ,90,228.0
+"Finca Museum 'Museum'  Reserva, Cigales",  Tempranillo  ,88,122.67
+"Costers del  Siurana Clos de l'Obac, Priorat DOCa",  Cabernet - Grenache - Merlot - Syrah  ,91,864.0
+Ossian  Vinas Viejas Blanco Vino de la Tierra de Castilla y Leon,  Verdejo  ,91,220.0
+"Bodega Vivaltus 'Vivaltus',  Ribera del Duero",  Red Blend  ,95,636.0
+"Baron de Ley Gran Reserva, Rioja  DOCa",  Rioja Red Blend  ,89,170.67
+"Pago de  los Capellanes Crianza, Ribera del Duero",  Tempranillo  ,90,170.67
+"Torres Altos Ibericos  Crianza, Rioja DOCa",  Tempranillo  ,87,97.33
+"Bodegas y Vinedos Artuke 'La  Condenada', Rioja DOCa",  Rioja Red Blend  ,95,554.67
+"Terroir Al Limit  Soc. Lda. Les Tosses, Priorat DOCa",  Carignan (Carinena)  ,95,1254.67
+"Raul Perez 'Sketch'  Blanco, Rias Baixas",  Albarino (Alvarinho)  ,92,408.0
+"Bodegas Campo Viejo Gran Reserva,  Rioja DOCa",  Rioja Red Blend  ,88,146.67
+"Artadi Valdegines, Alava",  Tempranillo  ,93,317.33
+"Descendientes  de J. Palacios Moncerbal, Bierzo",  Mencia  ,94,749.33
+"Bodegas Rafael  Palacios 'Louro' Godello, Valdeorras",  Godello  ,91,146.67
+"Terroir Al Limit  Soc. Lda. l'Arbossar, Priorat DOCa",  Carignan - Grenache - Syrah  ,93.0,408.0
+"Alvaro  Palacios Vi de Vila Gratallops, Priorat DOCa",  Red Blend  ,92.0,334.67
+"Gulp / Hablo  Orange Verdejo - Sauvignon Blanc, Castilla La Mancha",  Sauvignon Blanc - Verdejo  ,88.0,97.33
+"Bodegas Arzuaga  Navarro 'Arzuaga' Reserva, Ribera del Duero",  Tempranillo  ,91.0,285.33
+"Garmon Continental  'Garmon', Ribera del Duero",  Tempranillo  ,93.0,342.67
+LVP  Pink Sangria,  Sangria  ,,89.33
+"CVNE Vina Real Crianza,  Rioja DOCa",  Rioja Red Blend  ,89.0,89.33
+"Artadi Vinas de Gain, Alava",  Tempranillo  ,91.0,178.67
+"Finca  Villacreces 'Pruno', Ribera del Duero",  Cabernet - Tempranillo  ,89.0,105.33
+"Vatan Tinta de Toro, Toro,",  Tinta de Toro  ,92.0,269.33
+"Paco & Lola Albarino,  Rias Baixas",  Albariño  ,89.0,114.67
+"Bodegas del  Palacio de Fefinanes 'Albarino de Fefinanes', Rias Baixas",  Albarino (Alvarinho)  ,90.0,146.67
+"Alvaro Palacios  Les Aubaguetes, Priorat DOCa",  Carinena - Garnacha  ,95.0,777.33
+"Torres Pazo das  Bruxas Albarino, Rias Baixas",  Albariño  ,89.0,122.67
+Bodega Pago Ayles 'Cuesta del Herrero'  Vino de Pago,  Red Blend  ,91.0,65.33
+"Dominio do Bibei 'Lalama',  Ribeira Sacra",  Mencia  ,91.0,154.67
+"Bodegas  Palacio 'Cosme Palacio' Vinedos en Altitud Crianza, Rioja DOCa",  Tempranillo  ,90.0,97.33
+"Bodegas Muriel Reserva, Rioja DOCa",  Rioja Red Blend  ,89.0,114.67
+"Matsu El Picaro, Toro,",  Tinta de Toro  ,87.0,73.33
+"Torres Reserva Real, Penedes,",  Bordeaux Blend Red  ,93.0,978.67
+"Oxer Bastegieta  Kalamity, Rioja Doca",  Rioja Red Blend  ,94.0,741.33
+"Raventos  I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia, Catalonia",  Cava Blend  ,89.0,138.67
+"Bodegas Riojanas Vina  Albina Gran Reserva, Rioja DOCa",  Tempranillo  ,89.0,301.33
+"Bodegas Taron 'Pantocrator', Rioja  DOCa",  Tempranillo  ,91.0,212.0
+"Bodegas La Horra  Corimbo, Ribera del Duero",  Tempranillo  ,90.0,162.67
+"Compania Bodeguera  Valenciso Reserva, Rioja DOCa",  Tempranillo  ,91.0,188.0
+"Dominio  del Aguila 'Picaro del Aguila' Clarete Vinas Viejas, Ribera del Duero",  Tempranillo  ,91.0,228.0
+"Raventos  I Blanc 'De Nit' Rosado Espumoso Conca del Riu de Arnoia, Catalonia",  Rose Blend  ,89.0,154.67
+"Casa Castillo El Molar  Tinto, Jumilla",  Grenache (Garnacha)  ,91.0,138.67
+"Vinedos de  Paganos El Puntido Gran Reserva, Rioja DOCa",  Tempranillo  ,92.0,440.0
+"Bodegas Portia Roble,  Ribera del Duero",  Tempranillo  ,87.0,73.33
+"Bodegas  Emilio Moro 'Malleolus de Sanchomartin', Ribera del Duero",  Tempranillo  ,93.0,978.67
+Estrella Damm Lemon Cerveza,  Beer  ,,24.0
+"Alvear  Pedro Ximenez Solera 1927, Montilla-Moriles",  Pedro Ximenez  ,92.0,374.67
+"Bodegas Protos 27, Ribera del  Duero",  Tempranillo  ,91.0,170.67
+"Marques de Vargas Reserva, Rioja  DOCa",  Rioja Red Blend  ,90.0,146.67
+"Torres Vina Esmeralda,  Penedes",  Muscat of Alexandria  ,87.0,65.33
+"Comando G  'El Tamboril' Tinto Navaltalgordo, Castilla y Leon",  Grenache (Garnacha)  ,94.0,729.33
+"Bodegas Ego 'El Goru', Jumilla",  Red Blend  ,88.0,73.33
+"Bodegas Franco-Espanolas  Excelso Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,90.0,460.0
+"Bodegas Age Siglo Saco Crianza,  Rioja DOCa",  Tempranillo  ,86.0,105.33
+"Txomin Etxaniz  Txakoli, Getariako Txakolina",  Hondarrabi Zuri  ,88.0,130.67
+"Teso La Monja 'Almirez',  Toro",  Tinta de Toro  ,91.0,138.67
+"Bodegas  Valduero 12 Anos Gran Reserva, Ribera del Duero",  Tempranillo  ,92.0,1052.0
+"Bodegas Matarromera  Reserva, Ribera del Duero",  Tempranillo  ,90.0,269.33
+"Bodegas Juan  Gil 4 Meses Yellow Label Monastrell, Jumilla",  Monastrell  ,88.0,89.33
+"Bodegas LAN A Mano Edicion  Limitada, DOCa Rioja",  Rioja Red Blend  ,93.0,236.0
+"Bodegas  Emilio Moro 'Malleolus de Valderramiro', Ribera del Duero",  Tempranillo  ,93.0,814.67
+"Casa Castillo Monastrell,  Jumilla",  Monastrell  ,90.0,89.33
+"Torres Perpetual, Priorat  DOCa",  Carinena - Garnacha  ,92.0,400.0
+"Cellers de Scala  Dei Prior, Priorat DOCa",  Cabernet - Grenache - Syrah  ,90,178.67
+"Bodegas Valdemar 'Conde de  Valdemar' Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,90,170.67
+"Libertario Tempranillo, La  Mancha",  Tempranillo  ,86,24.0
+"Ferrer Bobet Vinyes  Velles, Priorat DOCa",  Carinena - Garnacha  ,92,358.67
+"Alvear  Pedro Ximenez de Anada, Montilla-Moriles",  Pedro Ximenez  ,91,277.33
+"Bodegas Casa Primicia Vina  Diezmo 'RV' Reserva, Rioja DOCa",  Tempranillo  ,88,146.67
+"Agusti Torello  Mata Kripta Gran Reserva Cava, Catalonia",  Cava Blend  ,91,440.0
+"Torre de Ona Finca  Martelo Reserva, Rioja DOCa",  Rioja Red Blend  ,91,212.0
+"Proelio 'Vinedos Viejos'  Garnacha, Rioja DOCa",  Grenache (Garnacha)  ,91,97.33
+"Bodegas LAN Edicion Limitada, Rioja DOCa,",  Tempranillo  ,91,326.67
+"Bodegas Zarate 'Zarate'  Albarino, Rias Baixas",  Albariño  ,90,146.67
+"Mas Martinet 'Martinet Bru',  Priorat DOCa",  Red Blend  ,91,204.0
+Condado  de Haza 20 Aldeas Vino de la Tierra de Castilla y Leon,  Tempranillo  ,89,130.67
+"Bodegas Vinicola  Real 200 Monges Reserva, Rioja DOCa",  Rioja Red Blend  ,90,261.33
+"Bodegas Campillo Gran Reserva, Rioja  DOCa",  Tempranillo  ,90,220.0
+"Bodega Lanzaga 'Tabuerniga',  Rioja DOCa",  Rioja Red Blend  ,95,610.67
+"Bodegas Riojanas Vina  Albina Reserva, Rioja DOCa",  Rioja Red Blend  ,88,269.33
+Arinzano 'Gran Vino' Vino de Pago,  Tempranillo  ,92,586.67
+"Bodegas Protos Roble,  Ribera del Duero",  Tempranillo  ,88,73.33
+"Izadi Reserva, Rioja DOCa",  Tempranillo  ,89,130.67
+"Sierra Cantabria 'Amancio',  Rioja DOCa",  Tempranillo  ,94,896.0
+"Raul Perez  Ultreia de Valtuille, Bierzo",  Mencia  ,92,382.67
+"Marques de Riscal  Proximo, Rioja DOCa",  Tempranillo  ,84,65.33
+"Finca Villacreces,  Ribera del Duero",  Cabernet - Merlot - Tempranillo  ,91,196.0
+"Oxer  Bastegieta Marko Gure Arbasoak, Bizkaiko Txakolina",  White Blend  ,91,130.67
+"Bodegas  Arzuaga Navarro 'Arzuaga' Gran Reserva, Ribera del Duero",  Tempranillo  ,92,620.0
+"Casa Rojo MMM  Macho Man Monastrell, Jumilla",  Monastrell  ,87,162.67
+Estrella Damm Lager Cerveza,  Beer  ,88,24.0
+"Clos Mogador 'Nelin',  Priorat DOCa",  White Blend  ,92,326.67
+"Grupo Olarra Cerro  Anon Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,89,130.67
+"Bodegas  Hermanos Perez Pascuas Vina Pedrosa Reserva, Ribera del Duero",  Tempranillo  ,91,350.67
+"Cims de Porrera Classic,  Priorat DOCa",  Carinena - Garnacha  ,91,382.67
+"Dominio de Atauta, Ribera  del Duero",  Tempranillo  ,92,196.0
+"Bodegas Luis Canas Reserva, Rioja  DOCa",  Tempranillo  ,90,122.67
+"Marques de  Riscal Organic Verdejo, Rueda",  Verdejo  ,88,65.33
+Gin Mare Mediterranean Gin,  Gin  ,91,261.33
+"Lagar de Cervera  Albarino, Rias Baixas",  Albariño  ,89,122.67
+"Vivanco Reserva, Rioja DOCa",  Rioja Red Blend  ,89,97.33
+"Matsu El Viejo, Toro",  Tinta de Toro  ,90,236.0
+"Celler de l'Era 'Bri',  Montsant",  Cabernet - Carignan - Grenache  ,88,73.33
+"Bodegas Faustino  I Gran Reserva 75 Aniversario, Rioja DOCa",  Rioja Red Blend  ,90,162.67
+"Bodegas Muga Blanco  Fermentado en Barrica, Rioja DOCa",  Rioja White Blend  ,89,105.33
+"Bodegas y  Vinedos Luna Beberide Paixar Mencia, Bierzo",  Mencia  ,92,212.0
+"Osborne  Carlos I Solera Gran Reserva Brandy de Jerez, Andalucia",  Brandy  ,88,228.0
+"CVNE 'Real de Asua', Rioja  DOCa",  Tempranillo  ,93,602.67
+"Marques  de Riscal 150th Aniversario Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,94,440.0
+"Vina Eguia Reserva, Rioja DOCa",  Tempranillo  ,87,105.33
+Abadia  Retuerta Pago Negralada Vino de la Tierra de Castilla y Leon,  Tempranillo  ,92,546.67
+"Bodegas Morca 'Godina'  Garnacha, Campo de Borja",  Grenache (Garnacha)  ,91,154.67
+"Pago  de los Capellanes Parcela El Nogal, Ribera del Duero",  Tempranillo  ,91,334.67
+"Torres Coronas Crianza  Tempranillo, Catalonia",  Tempranillo  ,85,73.33
+"Sierra Cantabria Gran  Reserva, Rioja DOCa",  Tempranillo  ,91,269.33
+"Matsu El Recio, Toro",  Tinta de Toro  ,88,105.33
+"Bodegas  Toro Albala Don PX, Montilla-Moriles",  Pedro Ximenez  ,88,269.33
+Anima  Negra 'An' Vi de la Terra de Mallorca,  Callet  ,91,285.33
+"Grupo Olarra Cerro Anon  Reserva, Rioja DOCa",  Rioja Red Blend  ,89,105.33
+"J.  Garcia Carrion Pata Negra Reserva, Valdepenas",  Tempranillo  ,86,57.33
+"Bodegas  Contador - Benjamin Romeo 'La Vina de Andres Romeo', Rioja DOCa",  Tempranillo  ,92,676.0
+"Bodegas Morca 'Morca' Garnacha,  Campo de Borja",  Grenache (Garnacha)  ,91,261.33
+"Bodegas Castano Hecula  Organic Monastrell, Yecla",  Monastrell  ,88,65.33
+"Camino de Seda Seleccion  Especial, Jumilla",  Mourvedre (Monastrell)  ,87,81.33
+4  Kilos Vinicola '4 Kilos' Vi de la Terra de Mallorca,  Red Blend  ,92,244.0
+"Familia  Nin-Ortiz 'Nit de Nin' La Coma d'en Romeu, Priorat DOCa",  Grenache (Garnacha)  ,97,856.0
+"Bodegas LAN Crianza, Rioja DOCa,",  Tempranillo  ,87,89.33
+"Tinto  Pesquera Janus Gran Reserva, Ribera del Duero",  Tempranillo  ,91,1125.33
+"La  Vizcaina 'El Rapolao' Lomas de Valtuille, Bierzo",  Mencia  ,92,212.0
+"Telmo  Rodriguez 'As Caborcas' Single Vineyard Ladeiras do Bibei, Valdeorras",  Red Blend  ,93,390.67
+"Torres Milmanda, Conca de  Barbera",  Chardonnay  ,90,400.0
+"Bodegas Merum  Priorati Viticultura Extrema 'Desti', Priorat DOCa",  Cabernet - Carignan - Grenache  ,92,269.33
+"Bodegas Bilbainas  Vina Pomal Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,90,220.0
+"Recaredo Turo d'en Mota Cava,  Catalonia",  Xarel-lo  ,95,758.67
+"Envinate 'Lousas' Vina de  Aldea, Galicia",  Mencia  ,91,244.0
+"CVNE 'Monopole' Blanco, Rioja  DOCa",  Macabeo (Viura)  ,87,89.33
+"Bodegas LAN Culmen Reserva, Rioja DOCa,",  Tempranillo  ,92,424.0
+"Bodegas Volver Triga, Alicante,",  Mourvedre (Monastrell)  ,92,253.33
+"Bodegas Franco-Espanolas Bordon  Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,89.0,178.67
+"Ausas  'Interpretacion', Ribera del Duero",  Tempranillo  ,94.0,350.67
+"Castillo  Perelada 5 Finques Reserva, Emporda-Costa Brava",  Red Blend  ,89.0,105.33
+"Liquid Geography  Mencia Rose, Bierzo",  Mencia  ,87.0,89.33
+"Alhambra Reserva 1925 Cerveza,  Andalucia",  Beer  ,,32.0
+"Terroir Al Limit  Soc. Lda. Dits del Terra, Priorat DOCa",  Carignan - Grenache - Syrah  ,92.0,390.67
+"Honoro Vera Garnacha,  Calatayud",  Grenache (Garnacha)  ,88.0,57.33
+"Bodegas Los Bermejos  Rosado, Lanzarote",  Listan Negro  ,89.0,170.67
+"Bodegas  Cerron Stratum Wines 'El Cerrico' Fermentado en Anfora Airen, Jumilla",  Airen  ,94.0,277.33
+"Torres Gran Sangre de  Toro Reserva, Catalonia",  Southern Rhone Red Blend  ,87.0,81.33
+"Raul Perez Ultreia  Godello, Bierzo",  Godello  ,91.0,146.67
+"Bodegas Contador  - Benjamin Romeo 'Predicador', Rioja DOCa",  Tempranillo  ,91.0,154.67
+"Jaume Serra Brut Cava, Catalonia,",  Cava Blend  ,84.0,49.33
+"Daniel  Gomez Jimenez-Landi 'Las Uvas de la Ira' Garnacha, Mentrida",  Grenache (Garnacha)  ,91.0,196.0
+"Ferrer Bobet, Priorat DOCa,",  Carignan - Grenache - Syrah  ,91.0,277.33
+"Xoriguer Mahon Gin,  Menorca",  Gin  ,92.0,170.67
+"Teso La Monja, Toro",  Tinta de Toro  ,95.0,766.67
+"Artadi El Seque, Alicante,",  Mourvedre (Monastrell)  ,91.0,162.67
+"Bodegas Corral Don Jacobo  Gran Reserva, Rioja DOCa",  Rioja Red Blend  ,88.0,586.67
+"Artemi Ron Miel Honey Rum,  Canary Islands",  Rum - Liqueur - Flavored  ,,65.33
+"Bodegas Ramon Bilbao  Edicion Limitada, Rioja DOCa",  Tempranillo  ,90.0,105.33
+"Bodegas La Horra  Corimbo I, Ribera del Duero",  Tempranillo  ,92.0,309.33
+"Bodegas  Volver 'Tarima Hill' Old Vines Monastrell, Alicante",  Monastrell  ,90.0,97.33
+Finca  Los Aljibes 'Selectus' Vino de la Tierra de Castilla,  Cabernet - Merlot - Syrah  ,89.0,122.67
+"Valtostao Legon  Premium, Ribera del Duero",  Tempranillo  ,91.0,154.67
+"Joan d'Anguera  Finca L'Argata, Montsant",  Grenache - Syrah  ,90,178.67
+"Bodegas Aster, Ribera del Duero,",  Tempranillo  ,89,146.67
+"CVNE 'Monopole Clasico'  Blanco, Rioja",  Macabeo (Viura)  ,91,170.67
+"Bodegas Manzanos Voche Reserva, Rioja  DOCa",  Rioja Red Blend  ,90,114.67
+"Beronia Crianza, Rioja DOCa",  Tempranillo  ,87,81.33
+"Finca Allende, Rioja DOCa",  Tempranillo  ,90,162.67
+"J.  Garcia Carrion Pata Negra Gran Reserva, Valdepenas",  Tempranillo  ,85,114.67
+El  Castilla Syrah,  Syrah  ,85,57.33
+"Neleman 'Just Fucking Good  Wine' Tinto, Valencia",  Marselan  ,89,97.33
+"Bodegas Montecillo Reserva, Rioja DOCa,",  Tempranillo  ,88,130.67
+"Bodegas Roda Sela, Rioja DOCa",  Rioja Red Blend  ,90,146.67
+"Bodegas Ramon Bilbao Gran  Reserva, Rioja DOCa",  Rioja Red Blend  ,90,178.67
+"Bodegas Palacios  Remondo Propiedad, Rioja DOCa",  Grenache (Garnacha)  ,92,244.0
+"Tinto  Pesquera 'Millenium' Gran Reserva, Ribera del Duero",  Tempranillo  ,91,822.67
+"Gonzalez  Byass Tio Pepe Fino Muy Seco Sherry, Andalucia",  Palomino  ,89,114.67
+"Bodegas Avancia Godello,  Valdeorras",  Godello  ,91,204.0
+"Bodegas Muga Rosado, Rioja DOCa",  Tempranillo  ,88,97.33
+"Bodegas Gerardo  Mendez Albarino Do Ferreiro, Rias Baixas",  Albariño  ,90,196.0
+"Ruavieja Licor de Hierbas,  Galicia",  Liqueur - Herb - Spice  ,86,65.33
+"Bodegas  Valduero Tierra Alta 'Valduero 2 Maderas', Ribera del Duero",  Tempranillo  ,89,178.67
+"Pago de  Carraovejas 'El Anejon', Ribera del Duero",  Tempranillo  ,93,628.0
+"Bodega Lanzaga 'La Estrada',  Rioja DOCa",  Rioja Red Blend  ,94,537.33
+"Raul  Perez 'Las Gundinas' Lomas de Valtuille, Bierzo",  Mencia  ,91,204.0
+"Venus La Universal  Dido Tinto, Montsant",  Cabernet - Grenache - Merlot - Syrah  ,91,122.67
+"Bodegas Mas Alta La  Basseta Priorat, Priorat DOCa",  Grenache - Syrah  ,92,366.67
+"Bodegas Morca 'Touran'  Garnacha, Campo de Borja",  Grenache (Garnacha)  ,93.0,733.33
+"Bodegas  Borsao Garnacha - Tinto Seleccion Joven, Campo de Borja",  Red Blend  ,87.0,57.33
+"Bodegas  Hermanos Perez Pascuas Vina Pedrosa Gran Reserva, Ribera del Duero",  Tempranillo  ,92.0,685.33
+"Felix  Solis Vina Albali Gran Reserva Seleccion Privada, Valdepenas",  Rioja Red Blend  ,88.0,65.33
+"Bodegas Ego 'Goru Gold', Jumilla,",  Cabernet - Mourvedre - Syrah  ,89.0,89.33
+Quinta Sardonia  Vino de la Tierra de Castilla y Leon,  Red Blend  ,92.0,269.33
+"Cellar Vall Llach  Embruix, Priorat DOCa",  Carinena - Garnacha  ,90.0,162.67
+"Pago  de Carraovejas 'Cuesta de las Liebres' Grandes Anadas, Ribera del Duero",  Tempranillo  ,92.0,1181.33
+"Hacienda Lopez de Haro  Reserva, Rioja DOCa",  Rioja Red Blend  ,88.0,89.33
+"Jorge  Ordonez & Co. No. 2 Victoria Moscatel, Malaga",  Muscat of Alexandria  ,92.0,277.33
+"Cepa Lebrel Reserva, Rioja DOCa,",  Rioja Red Blend  ,86.0,41.33
+"Remirez de Ganuza  Trasnocho, Rioja DOCa",  Rioja Red Blend  ,93.0,693.33
+"Faustino Rivero  Ulecia Albarino, Rias Baixas",  Albariño  ,86.0,105.33
+"Cruzcampo Especial Cerveza, Andalucia,",  Beer  ,,24.0
+"Bodegas Palacios  Remondo La Vendimia, Rioja DOCa",  Tempranillo  ,88.0,89.33
+"Bodegas Fillaboa Albarino,  Rias Baixas",  Albariño  ,88.0,114.67
+"Suertes  del Marques Vidonia, Valle de la Orotava",  Palomino  ,92.0,269.33
+"Torres Vina Sol  Parellada, Penedes",  Parellada  ,86.0,57.33
+Anima  Negra 'An-2' Vi de la Terra Mallorca,  Callet  ,90.0,146.67
+"Bodegas Agro  de Bazan Granbazan Etiqueta Verde, Rias Baixas",  Albarino (Alvarinho)  ,89.0,122.67
+"Venus La Universal, Montsant,",  Carignan - Grenache - Syrah  ,92.0,253.33
+"Comando G 'El Hombre Bala',  Madrid",  Grenache (Garnacha)  ,91.0,154.67
+"Bodegas Vilano Reserva,  Ribera del Duero",  Tempranillo  ,89.0,138.67
+"Marques de Vargas Gran  Reserva, Rioja DOCa",  Rioja Red Blend  ,91.0,236.0
+"Tomas Postigo  Tinto, Ribera del Duero",  Cabernet - Merlot - Tempranillo  ,91.0,204.0
+"Bodegas Forjas  del Salnes Leirana Albarino, Rias Baixas",  Albariño  ,91.0,146.67
+"Familia Nin-Ortiz  'Planetes de Nin', Priorat DOCa",  Carinena - Garnacha  ,92.0,261.33
+"Bodegas Castano Solanera  Vinas Viejas, Yecla",  Mourvedre (Monastrell)  ,89.0,97.33
+"Vega  Sicilia Tinto Valbuena 3, Ribera del Duero",  Tempranillo  ,92.0,1222.67
+"Bodegas Valdemar 'Conde de  Valdemar' Reserva, Rioja DOCa",  Rioja Red Blend  ,88.0,114.67
+"Daniel  Gomez Jimenez Landi 'El Reventon', Cebreros",  Grenache (Garnacha)  ,93.0,749.33
+"Marques de  Murrieta Ygay Etiqueta Blanca, Rioja DOCa",  Rioja Red Blend  ,90.0,822.67
+Marques  de Toro Single Vineyard Finca La Moura Mencia Vino de la Tierra de Castilla y Leon,  Mencia  ,89.0,73.33
+"Bodegas  Forjas del Salnes Leirana Genoveva Albarino, Rias Baixas",  Albariño  ,92.0,220.0
+"Finca Valpiedra Reserva, Rioja DOCa,",  Tempranillo  ,90.0,204.0
+"Bodegas  Valduero Tierra Alta 'De 2 Cotas' Reserva, Ribera del Duero",  Tempranillo  ,90.0,253.33
+"Marques de  Riscal 'Arienzo' Rioja Crianza, Rioja DOCa",  Rioja Red Blend  ,87.0,65.33
+"Clos Mogador 'Com Tu',  Montsant",  Grenache (Garnacha)  ,92.0,309.33
+"Arestel Brut Cava, Catalonia",  Cava Blend  ,86.0,32.0
+"Altovinum  Evodia Old Vines Garnacha, Calatayud",  Grenache (Garnacha)  ,87.0,73.33
+"Envinate 'Migan' Tinto, Canary  Islands",  Listan Negro  ,92.0,301.33
+"Clos Figueras 'Clos  Figueres', Priorat DOCa",  Carignan - Grenache - Syrah  ,91.0,464.0
+"Remirez de Ganuza  Fincas de Ganuza Reserva, Rioja DOCa",  Tempranillo  ,91.0,285.33
+"Remirez de Ganuza  Blanco Reserva, Rioja DOCa",  Rioja White Blend  ,92.0,358.67
+"Enric  Soler Masia Cal Raspallet 'Nun Vinya dels Taus', Catalonia",  Xarel-lo  ,96.0,408.0
+"Agro de Bazan  Granbazan Don Alvaro de Bazan, Rias Baixas",  Albarino (Alvarinho)  ,90.0,204.0
+"Bodegas La Vina Palacio  del Conde Gran Seleccion, Valencia",  Tempranillo  ,85.0,89.33
+"Bodegas  Emilio Moro 'Finca Resalso', Ribera del Duero",  Tempranillo  ,88.0,89.33
+"Estrella Galicia Especial Cerveza,  Galicia",  Beer  ,,24.0
+"Dominio de la  Abadesa Reserva, Ribera del Duero",  Tempranillo  ,87.0,105.33
+"Federico Paternina  'Banda Azul' Crianza, Rioja DOCa",  Rioja Red Blend  ,85.0,81.33
+"Carodorum Seleccion  Especial, Toro",  Tinta de Toro  ,91.0,178.67
+"Torres 10  Gran Reserva Imperial Brandy, Penedes",  Brandy  ,86.0,138.67
+"Bodegas Altanza Reserva, Rioja DOCa,",  Tempranillo  ,89.0,122.67
+"Bodegas Berberana Reserva, Rioja DOCa,",  Rioja Red Blend  ,87.0,400.0
+"Bodegas Atalaya 'Laya',  Almansa",  Grenache - Mourvedre  ,88.0,57.33
+"Bodegas Aragonesas  'Don Ramon' Barrica, Campo de Borja",  Garnacha - Tempranillo  ,85.0,65.33
+"Bodegas Zarate 'El  Palomar' Albarino, Rias Baixas",  Albariño  ,93.0,277.33
+"Felix Solis 'The  Guv'nor', Castilla La Mancha",  Syrah - Tempranillo  ,,49.33
+"Envinate 'Benje', Canary Islands,",  Red Blend  ,91.0,188.0
+"Celler Mas Doix  Salanques, Priorat DOCa",  Carignan - Grenache - Syrah  ,91.0,269.33
+"La Cana Albarino, Rias Baixas,",  Albariño  ,89.0,122.67
+"Bodegas Aster  Finca el Otero, Ribera del Duero",  Tempranillo  ,91.0,293.33
+"Bodegas Muga Gran Reserva, Rioja  DOCa",  Tempranillo  ,91.0,1125.33
+"Comando G La Mujer Canon, Madrid,",  Grenache (Garnacha)  ,93.0,505.33
+"Izadi Crianza, Rioja DOCa",  Tempranillo  ,89.0,73.33
+"Sierra Cantabria  Coleccion Privada, Rioja DOCa",  Tempranillo  ,92.0,374.67
+"Bodegas Muga 'El  Anden de la Estacion' Crianza, Rioja DOCa",  Rioja Red Blend  ,88.0,138.67
+"Bodegas Palacio 'Glorioso' Reserva,  Rioja DOCa",  Rioja Red Blend  ,89.0,89.33
+"Bodegas Ontanon Reserva, Rioja  DOCa",  Rioja Red Blend  ,89.0,130.67
+"Bodegas Jose Pariente  Verdejo, Rueda",  Verdejo  ,89.0,65.33
+"Finca La Selva Gran Reserva,  Rioja DOCa",  Tempranillo  ,,138.67
+"Juve y Camps 'Gran' Gran  Reserva Brut Cava, Catalonia",  Cava Blend  ,91.0,220.0
+"Gramona Imperial Brut, Catalonia,",  Cava Blend  ,90.0,154.67
+"Cillar de  Silos Torresilo, Ribera del Duero",  Tempranillo  ,91.0,277.33
+"Suertes  del Marques Trenzado Parajes del Oeste, Valle de la Orotava",  Palomino  ,90.0,154.67
+"Bodegas Cepa 21,  Ribera del Duero",  Tempranillo  ,90.0,146.67
+"Pago  de los Capellanes Joven Roble, Ribera del Duero",  Tempranillo  ,89.0,114.67
+"Senorio de Villarrica Reserva,  Rioja DOCa",  Tempranillo  ,89.0,122.67
+"Bodegas Olivares  Altos de la Hoya Monastrell, Jumilla",  Monastrell  ,88.0,81.33
+"Triton' Tinta de Toro, Toro,",  Tinta de Toro  ,90.0,122.67
+"Ruavieja Crema de Orujo, Galicia,",  Liqueur - Cream  ,87.0,81.33
+Rodnik's Classic Absinthe,  Absinthe  ,,130.67
+"Casa  Rojo 'Alexander VS The Ham Factory', Ribera del Duero",  Tempranillo  ,89.0,261.33
+"Dominio de Pingus  'Amelia', Ribera del Duero",  Tempranillo  ,94.0,549.33
+"Bodegas  Gerardo Mendez Albarino Do Ferreiro 'Cepas Vellas', Rias Baixas",  Albariño  ,92.0,358.67
+"Bodegas  Arzuaga Navarro 'Arzuaga' Reserva Especial, Ribera del Duero",  Tempranillo  ,92.0,432.0
+"Finca Bacara 'Time  Waits for No One', Jumilla",  Mourvedre (Monastrell)  ,88.0,89.33
+"Raul Perez Ultreia  Mencia, Bierzo",  Mencia  ,91.0,105.33
+"Bodegas  Terras Gauda Abadia de San Campio Albarino, Rias Baixas",  Albariño  ,88.0,105.33
+"Gramona Gessami, Penedes,",  Muscat  ,89.0,105.33
+"Bodegas Juan Gil Bluegray,  Priorat DOCa",  Cabernet - Carignan - Grenache  ,89.0,130.67
+"Bodegas  Palacios Remondo 'Placet Valtomelloso', Rioja DOCa",  Macabeo (Viura)  ,91.0,204.0
+"Monasterio de Las Vinas  Reserva, Carinena",  Carignan - Grenache - Tempranillo  ,86.0,81.33
+"Bodegas  Matarromera Gran Reserva, Ribera del Duero",  Tempranillo  ,90.0,660.0
+"Marques de  la Concordia Lagunilla Gran Reserva, Rioja DOCa",  Garnacha - Tempranillo  ,87.0,114.67
+"Chivite Coleccion 125  Blanco Chardonnay, Navarra",  Chardonnay  ,93.0,309.33
+"Cellers Can Blau 'Can Blau',  Montsant",  Carignan - Grenache - Syrah  ,89.0,89.33
+"Paniza Senorio de  Gayan Gran Reserva, Carinena",  Tempranillo  ,,170.67
+"Telmo  Rodriguez 'Falcoeira' A Capilla, Valdeorras",  Red Blend  ,93.0,350.67

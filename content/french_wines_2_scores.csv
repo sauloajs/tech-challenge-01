@@ -1,0 +1,501 @@
+product,grape,score,avg_price_liter
+"Chateau Mouton  Rothschild, Pauillac",  Bordeaux Blend Red  ,96,789.33
+"Dom Perignon Brut, Champagne,",  Champagne Blend  ,94,529.33
+"Chateau Lafite  Rothschild, Pauillac",  Bordeaux Blend Red  ,96,1170.67
+"Petrus, Pomerol",  Merlot  ,96,1321.33
+"Chateau Margaux, Margaux",  Bordeaux Blend Red  ,96,1102.67
+"Chateau Cheval Blanc,  Saint-Emilion",  Bordeaux Blend Red  ,96,1053.33
+"Chateau Latour, Pauillac",  Cabernet Sauvignon - Merlot  ,96,8.0
+"Domaine  de la Romanee-Conti Romanee-Conti Grand Cru, Cote de Nuits",  Pinot Noir  ,98,818.67
+"Chateau Haut-Brion,  Pessac-Leognan",  Bordeaux Blend Red  ,96,269.33
+"Chateau Pontet-Canet,  Pauillac",  Bordeaux Blend Red  ,95,914.67
+"Domaine  de la Romanee-Conti La Tache Grand Cru Monopole, Cote de Nuits",  Pinot Noir  ,97,196.0
+"Chateau d'Yquem, Sauternes",  Sauvignon Blanc - Semillon  ,96,449.33
+"Louis Roederer  Cristal Millesime Brut, Champagne",  Chardonnay - Pinot Noir  ,95,1057.33
+"Chateau Lynch-Bages, Pauillac,",  Bordeaux Blend Red  ,94,1121.33
+"Chateau Montrose, Saint-Estephe,",  Bordeaux Blend Red  ,95,1294.67
+"Chateau Cos d'Estournel,  Saint-Estephe",  Bordeaux Blend Red  ,95,142.67
+"Chateau  Leoville-Las Cases 'Grand Vin de Leoville', Saint-Julien",  Bordeaux Blend Red  ,96,513.33
+"Chateau  Pichon Longueville Comtesse de Lalande, Pauillac",  Bordeaux Blend Red  ,95,224.0
+"Chateau Leoville Barton,  Saint-Julien",  Bordeaux Blend Red  ,94,782.67
+"Chateau Palmer, Margaux",  Bordeaux Blend Red  ,95,1024.0
+"Chateau Angelus, Saint-Emilion,",  Bordeaux Blend Red  ,95,120.0
+"Krug Vintage Brut, Champagne,",  Champagne Blend  ,96,476.0
+"Chateau Figeac, Saint-Emilion  Grand Cru",  Bordeaux Blend Red  ,95,480.0
+"Chateau  Pichon-Longueville au Baron de Pichon-Longueville, Pauillac",  Bordeaux Blend Red  ,95,1245.33
+"Chateau  Ducru-Beaucaillou, Saint-Julien",  Cabernet Sauvignon - Merlot  ,95,249.33
+"Salon Cuvee 'S'  Le Mesnil Blanc de Blancs Brut, Champagne",  Chardonnay  ,96,872.0
+"Chateau Leoville  Poyferre, Saint-Julien",  Bordeaux Blend Red  ,94,841.33
+"Chateau La Mission  Haut-Brion, Pessac-Leognan",  Bordeaux Blend Red  ,95,110.67
+"Chateau Pavie, Saint-Emilion  Grand Cru",  Bordeaux Blend Red  ,95,1049.33
+"Chateau Canon, Saint-Emilion  Grand Cru",  Bordeaux Blend Red  ,95,1072.0
+"Chateau Talbot, Saint-Julien,",  Bordeaux Blend Red  ,91,585.33
+"Domaine  Armand Rousseau Pere et Fils Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,96,1168.0
+"Chateau Lafleur, Pomerol",  Cabernet Franc - Merlot  ,96,340.0
+"Chateau de Beaucastel  Chateauneuf-du-Pape, Rhone",  Southern Rhone Red Blend  ,93,650.67
+"Chateau Beychevelle,  Saint-Julien",  Bordeaux Blend Red  ,93,873.33
+"Domaine  de la Romanee-Conti Romanee-Saint-Vivant Grand Cru, Cote de Nuits",  Pinot Noir  ,95,702.67
+"Chateau Calon-Segur,  Saint-Estephe",  Bordeaux Blend Red  ,94,1022.67
+"Chateau  Grand-Puy-Lacoste, Pauillac",  Bordeaux Blend Red  ,93,601.33
+"Domaine  de la Romanee-Conti Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,96,516.0
+"Taittinger Comtes  de Champagne Blanc de Blancs Brut, Champagne",  Chardonnay  ,94,125.33
+"Chateau Smith Haut  Lafitte, Pessac-Leognan",  Bordeaux Blend Red  ,94,922.67
+"Chateau Troplong  Mondot, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,94,832.0
+"Domaine  de la Romanee-Conti Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,94,138.67
+"Chateau  Lafite Rothschild 'Carruades de Lafite', Pauillac",  Bordeaux Blend Red  ,91,1172.0
+"Chateau Giscours, Margaux,",  Bordeaux Blend Red  ,92,528.0
+"Vieux Chateau Certan, Pomerol,",  Bordeaux Blend Red  ,95,628.0
+"Chateau Rayas  Chateauneuf-du-Pape Reserve, Rhone",  Grenache (Garnacha)  ,95,1318.67
+"Domaine Jean-Louis Chave  Hermitage, Rhone",  Syrah  ,95,1208.0
+"Chateau Rauzan-Segla, Margaux,",  Bordeaux Blend Red  ,94,816.0
+"Domaine de Chevalier,  Pessac-Leognan",  Bordeaux Blend Red  ,94,560.0
+"Chateau Gruaud-Larose,  Saint-Julien",  Bordeaux Blend Red  ,93,782.67
+"Chateau Lascombes, Margaux,",  Bordeaux Blend Red  ,91,609.33
+"Chateau Pape Clement,  Pessac-Leognan",  Bordeaux Blend Red  ,93,750.67
+"Chateau Branaire-Ducru,  Saint-Julien",  Bordeaux Blend Red  ,92,478.67
+"Chateau Batailley, Pauillac,",  Bordeaux Blend Red  ,92,437.33
+"Chateau Ausone, Saint-Emilion,",  Bordeaux Blend Red  ,96,1061.33
+"Domaine  Comte Georges de Vogue Musigny Grand Cru 'Cuvee Vieilles Vignes', Cote de Nuits",  Pinot Noir  ,95,1073.33
+"Chateau Les Carmes  Haut-Brion, Pessac-Leognan",  Bordeaux Blend Red  ,94,1046.67
+"Chateau La Conseillante, Pomerol,",  Bordeaux Blend Red  ,95,233.33
+"Chateau Brane-Cantenac,  Margaux",  Bordeaux Blend Red  ,93,601.33
+"Chateau Duhart-Milon,  Pauillac",  Bordeaux Blend Red  ,91,668.0
+"Domaine  de la Romanee-Conti Grands Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,95,769.33
+"Dom Perignon Rose, Champagne,",  Champagne Blend  ,95,366.67
+"Paul Jaboulet Aine  Hermitage La Chapelle, Rhone",  Syrah  ,94,18.67
+"Dom Perignon P2  Plenitude Brut, Champagne",  Champagne Blend  ,95,754.67
+"Domaine  de la Romanee-Conti Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,96,868.0
+"Chateau Cantemerle, Haut-Medoc,",  Bordeaux Blend Red  ,90,264.0
+"Le Pin, Pomerol",  Merlot  ,95,378.67
+"Chateau Haut-Bailly,  Pessac-Leognan",  Bordeaux Blend Red  ,95,890.67
+"Bollinger R.D. Extra Brut,  Champagne",  Chardonnay - Pinot Noir  ,95,628.0
+"Bollinger La Grande Annee  Brut, Champagne",  Chardonnay - Pinot Noir  ,94,1145.33
+"E. Guigal Cote Rotie La  Mouline, Rhone",  Syrah - Viognier  ,95,1304.0
+"Chateau Lagrange, Saint-Julien,",  Bordeaux Blend Red  ,92,428.0
+"Chateau Laroque,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91,246.67
+"Krug Clos du Mesnil  Blanc de Blancs Brut, Champagne",  Chardonnay  ,96,261.33
+"Chateau La Fleur-Petrus, Pomerol,",  Cabernet Franc - Merlot  ,94,348.0
+"Chateau Trotanoy, Pomerol",  Bordeaux Blend Red  ,95,653.33
+"Domaine  du Clos de Tart 'Clos de Tart' Grand Cru Monopole, Cote de Nuits",  Pinot Noir  ,95,740.0
+"Domaine  des Lambrays Clos des Lambrays Grand Cru, Cote de Nuits",  Pinot Noir  ,94,161.33
+"Moet & Chandon Grand  Vintage Brut, Champagne",  Champagne Blend  ,91,560.0
+"Paul Avril Clos des  Papes Chateauneuf-du-Pape, Rhone",  Southern Rhone Red Blend  ,94,684.0
+"Domaine  Armand Rousseau Pere et Fils Clos Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,95,565.33
+"Baron  Philippe de Rothschild Chateau d'Armailhac, Pauillac",  Bordeaux Blend Red  ,91,478.67
+"Pavillon Rouge du Chateau  Margaux, Margaux",  Bordeaux Blend Red  ,92,166.67
+"Pol Roger  Cuvee Sir Winston Churchill Brut, Champagne",  Champagne Blend  ,95,604.0
+"Domaine  Georges & Christophe Roumier Bonnes-Mares Grand Cru, Cote de Nuits",  Pinot Noir  ,95,1197.33
+"Chateau Latour 'Les  Forts de Latour', Pauillac",  Cabernet Sauvignon - Merlot  ,92,306.67
+"Domaine  Armand Rousseau Pere et Fils Chambertin Clos-de-Beze Grand Cru, Cote de Nuits",  Pinot Noir  ,96,1129.33
+"Chateau Langoa-Barton,  Saint-Julien",  Bordeaux Blend Red  ,92,428.0
+"Domaine  Leroy Musigny Grand Cru, Cote de Nuits",  Pinot Noir  ,98,710.67
+"Domaine  Leflaive Chevalier-Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,95,1080.0
+"Coche-Dury Meursault,  Cote de Beaune",  Chardonnay  ,92,573.33
+"Chateau d'Issan, Margaux",  Bordeaux Blend Red  ,92,494.67
+"Chateau Clinet, Pomerol",  Bordeaux Blend Red  ,93,824.0
+"Chateau Clerc-Milon, Pauillac,",  Bordeaux Blend Red  ,92,701.33
+"Chateau de Fieuzal,  Pessac-Leognan",  Bordeaux Blend Red  ,91,305.33
+"Chateau L'Evangile, Pomerol,",  Cabernet Franc - Merlot  ,94,365.33
+"Chateau Rieussec, Sauternes",  Sauvignon Blanc - Semillon  ,93,528.0
+"Krug Grande Cuvee Brut, Champagne,",  Champagne Blend  ,94,356.0
+"Domaine  Bonneau du Martray Corton-Charlemagne Grand Cru, Cote de Beaune",  Chardonnay  ,94,457.33
+"Chateau  Malescot-St-Exupery, Margaux",  Bordeaux Blend Red  ,92.0,494.67
+"Chateau Sociando-Mallet,  Haut-Medoc",  Bordeaux Blend Red  ,90.0,297.33
+"Perrier-Jouet  Belle Epoque - Fleur de Champagne Millesime Brut, Champagne",  Champagne Blend  ,92.0,2.67
+"Chateau Gloria,  Saint-Julien",  Bordeaux Blend Red  ,91.0,354.67
+Hennessy Pure White Cognac,  Brandy  ,,2.67
+"Chateau Suduiraut, Sauternes,",  Sauvignon Blanc - Semillon  ,94.0,469.33
+"Chateau Phelan Segur,  Saint-Estephe",  Bordeaux Blend Red  ,91.0,354.67
+"Domaine  Dujac Clos de la Roche Grand Cru, Cote de Nuits",  Pinot Noir  ,94.0,29.33
+"Domaine  du Comte Liger-Belair La Romanee Grand Cru, Cote de Nuits",  Pinot Noir  ,96.0,261.33
+Chateau Gazin Pomerol,  Bordeaux Blend Red  ,92.0,634.67
+"Jacques Selosse Millesime,  Champagne",  Champagne Blend  ,95.0,694.67
+"Domaine  Leflaive Les Pucelles, Puligny-Montrachet Premier Cru",  Chardonnay  ,93.0,633.33
+"Rare Brut Millesime, Champagne,",  Champagne Blend  ,93.0,76.0
+"Chateau La Lagune, Haut-Medoc,",  Bordeaux Blend Red  ,91.0,445.33
+"Domaine  Ponsot Clos de la Roche Grand Cru 'Cuvee Vieilles Vignes', Cote de Nuits",  Pinot Noir  ,95.0,1314.67
+"Chateau Pavie Macquin,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,94.0,634.67
+"Louis Roederer  Cristal Brut Rose Millesime, Champagne",  Chardonnay - Pinot Noir  ,96.0,320.0
+"Domaine  Georges & Christophe Roumier Chambolle-Musigny, Cote de Nuits",  Pinot Noir  ,90.0,294.67
+"Domaine  Leflaive Batard-Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,94.0,97.33
+"Veuve  Clicquot Ponsardin La Grande Dame Brut, Champagne",  Champagne Blend  ,93.0,26.67
+"Chateau Meyney, Saint-Estephe,",  Bordeaux Blend Red  ,91.0,264.0
+"Domaine  Jacques-Frederic Mugnier Le Musigny Grand Cru, Cote de Nuits",  Pinot Noir  ,96.0,868.0
+"Domaine  Leflaive Clavoillon, Puligny-Montrachet Premier Cru",  Chardonnay  ,92.0,309.33
+"Egly-Ouriet Grand  Cru Brut Millesime, Champagne",  Champagne Blend  ,94.0,574.67
+"Domaine  Leflaive Puligny-Montrachet, Cote de Beaune",  Chardonnay  ,90.0,752.0
+"Chateau Le  Tertre-Roteboeuf, Saint-Emilion",  Bordeaux Blend Red  ,95,158.67
+"Chateau Beau-Sejour  Becot, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,93,554.67
+"Chateau Canon la  Gaffeliere, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,93,652.0
+"Chateau Palmer Alter Ego  de Palmer, Margaux",  Bordeaux Blend Red  ,91,610.67
+"Dom Perignon P3  Plenitude Brut, Champagne",  Champagne Blend  ,96,594.67
+"E. Guigal Cote Rotie La  Landonne, Rhone",  Syrah  ,96,104.0
+"Louis-Benjamin  - Didier Dagueneau Pouilly-Fume Silex, Loire",  Sauvignon Blanc  ,93,117.33
+"Chateau Chasse-Spleen,  Moulis-en-Medoc",  Bordeaux Blend Red  ,88,309.33
+"Domaine  Jacques-Frederic Mugnier Clos de la Marechale, Nuits-Saint-Georges Premier Cru",  Pinot Noir  ,91,313.33
+"Domaine du Pegau  Chateauneuf-du-Pape Cuvee Reservee, Rhone",  Southern Rhone Red Blend  ,92,529.33
+"Chateau Cantenac Brown,  Margaux",  Bordeaux Blend Red  ,92,440.0
+"Chateau L'Eglise-Clinet, Pomerol,",  Cabernet Franc - Merlot  ,95,565.33
+Louis XIII de Remy  Martin Grande Champagne Cognac,  Brandy  ,92,105.33
+"Domaine Rene  Rostaing Cote Rotie La Landonne, Rhone",  Syrah  ,94,1125.33
+"Domaine de la Grange des  Peres, IGP Pays d'Herault",  Cabernet - Mourvedre - Syrah  ,90,210.67
+"Domaine Jamet Cote Rotie, Rhone,",  Syrah  ,94,444.0
+"Chateau Valandraud,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,94,1206.67
+"Henri  Jayer Cros Parantoux, Vosne-Romanee Premier Cru",  Pinot Noir  ,93,1284.0
+"Chateau Lafon-Rochet,  Saint-Estephe",  Bordeaux Blend Red  ,91,358.67
+"Chateau La Gaffeliere,  Saint-Emilion",  Cabernet Franc - Merlot  ,93,578.67
+"Chateau Prieure-Lichine,  Margaux",  Bordeaux Blend Red  ,91,342.67
+"Chateau Haut-Bages  Liberal, Pauillac",  Bordeaux Blend Red  ,90,358.67
+"Domaine du  Vieux Telegraphe Chateauneuf-du-Pape La Crau, Rhone",  Southern Rhone Red Blend  ,92,570.67
+"Domaine  Trapet Pere et Fils Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,96,1253.33
+"Chateau  Pichon Longueville Comtesse de Lalande 'Pichon Comtesse Reserve', Pauillac",  Bordeaux Blend Red  ,90,366.67
+"Domaine  Francois Raveneau Montee de Tonnerre, Chablis Premier Cru",  Chardonnay  ,93,66.67
+"Clos Fourtet,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,94,888.0
+"Billecart-Salmon  'Cuvee Nicolas-Francois Billecart' Millesime, Champagne",  Champagne Blend  ,94,1238.67
+"Domaine de Chevalier  Blanc, Pessac-Leognan",  Bordeaux Blend White  ,94,701.33
+"Chateau  de Beaucastel Chateauneuf-du-Pape Grand Cuvee Hommage a Jacques Perrin, Rhone",  Southern Rhone Red Blend  ,96,1120.0
+"Chateau Climens, Sauternes -  Barsac",  Semillon  ,94,725.33
+"Domaine Dujac  Morey-Saint-Denis, Cote de Nuits",  Pinot Noir  ,89,1320.0
+"Bernard Magrez  Chateau La Tour Carnet, Haut Medoc",  Bordeaux Blend Red  ,90,244.0
+"Rene  et Vincent Dauvissat-Camus La Forest, Chablis Premier Cru",  Chardonnay  ,93,68.0
+"Domaine  Anne Gros Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,94,1125.33
+"Coche-Dury  Corton-Charlemagne Grand Cru, Cote de Beaune",  Chardonnay  ,97,270.67
+"Chateau Grand-Puy  Ducasse, Pauillac",  Bordeaux Blend Red  ,91,317.33
+"Chateau du Tertre, Margaux,",  Bordeaux Blend Red  ,90,358.67
+"Le  Clarence de Haut-Brion - Chateau Bahans Haut-Brion, Pessac-Leognan",  Bordeaux Blend Red  ,91,1034.67
+"Chateau Poujeaux, Moulis-en-Medoc,",  Bordeaux Blend Red  ,89,236.0
+"Domaine  Comte Georges de Vogue Bonnes-Mares Grand Cru, Cote de Nuits",  Pinot Noir  ,94,1029.33
+"Domaine  de la Romanee-Conti Corton Grand Cru, Cote de Beaune",  Pinot Noir  ,93,1326.67
+"Domaine Leroy Bourgogne Rouge,  Burgundy",  Pinot Noir  ,89,109.33
+"Chateau  Leoville-Las Cases 'Clos du Marquis', Saint-Julien",  Bordeaux Blend Red  ,92,489.33
+"Chateau Coutet, Sauternes -  Barsac",  Semillon  ,93,342.67
+"Emmanuel  Rouget Cros Parantoux, Vosne-Romanee Premier Cru",  Pinot Noir  ,95,1109.33
+"Philipponnat Clos des  Goisses Extra Brut, Champagne",  Chardonnay - Pinot Noir  ,94,492.0
+"Domaine  Georges & Christophe Roumier Les Cras, Chambolle-Musigny Premier Cru",  Pinot Noir  ,93,400.0
+"Domaine  Ramonet Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,95,201.33
+"Chateau Kirwan, Margaux",  Bordeaux Blend Red  ,91,408.0
+"Chateau Saint-Pierre, Saint-Julien,",  Bordeaux Blend Red  ,92,416.0
+"Chateau Haut-Batailley,  Pauillac",  Bordeaux Blend Red  ,91,424.0
+"Chateau Guiraud, Sauternes",  Sauvignon Blanc - Semillon  ,93,440.0
+"Louis  Latour Corton-Charlemagne Grand Cru, Cote de Beaune",  Chardonnay  ,92,1238.67
+"Chateau Soutard,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91,342.67
+"Domaine  Armand Rousseau Pere et Fils Clos de la Roche Grand Cru, Cote de Nuits",  Pinot Noir  ,94,832.0
+"Nicole  Lamarche La Grande Rue Grand Cru Monopole, Cote de Nuits",  Pinot Noir  ,93,304.0
+"Domaine  Armand Rousseau Pere et Fils Charmes-Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,93,318.67
+"Pierre Gonon Saint-Joseph, Rhone,",  Syrah  ,93,28.0
+"Chateau Malartic  Lagraviere, Pessac-Leognan",  Bordeaux Blend Red  ,92,374.67
+"F E Trimbach Riesling  Clos Sainte Hune, Alsace",  Riesling  ,95,712.0
+"E. Guigal Cote Rotie La Turque,  Rhone",  Syrah - Viognier  ,95,1282.67
+"Dom Ruinart Blanc  de Blancs Brut Millesime, Champagne",  Chardonnay  ,93,353.33
+"Chateau Monbousquet,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,90,424.0
+"Chateau Haut-Brion Blanc,  Pessac-Leognan",  Sauvignon Blanc - Semillon  ,95,820.0
+"Le Petit  Mouton de Mouton Rothschild, Pauillac",  Bordeaux Blend Red  ,92,664.0
+"Chateau Larrivet  Haut-Brion, Pessac-Leognan",  Bordeaux Blend Red  ,91,309.33
+Hennessy V.S. Cognac,  Brandy  ,87,301.33
+"Chateau Montrose La  Dame de Montrose, Saint-Estephe",  Cabernet Sauvignon - Merlot  ,91,317.33
+"Domaine Auguste Clape Cornas, Rhone,",  Syrah  ,94,1254.67
+"Meo-Camuzet  Clos de Vougeot Grand Cru, Cote de Nuits",  Pinot Noir  ,93,422.67
+"Chateau Lynch-Moussas,  Pauillac",  Bordeaux Blend Red  ,90,293.33
+"Domaine  Armand Rousseau Pere et Fils Gevrey-Chambertin, Cote de Nuits",  Pinot Noir  ,90,124.0
+"Rene  et Vincent Dauvissat-Camus Les Clos, Chablis Grand Cru",  Chardonnay  ,95,545.33
+"Chateau Cheval Blanc 'Le  Petit Cheval', Saint-Emilion",  Bordeaux Blend Red  ,91,1288.0
+"Domaine  des Comtes Lafon Charmes, Meursault Premier Cru",  Chardonnay  ,93,797.33
+"Domaine  Georges & Christophe Roumier Clos de la Bussiere, Morey-Saint-Denis Premier Cru",  Pinot Noir  ,91,1164.0
+"Domaine  Robert Groffier Pere & Fils Les Amoureuses, Chambolle-Musigny Premier Cru",  Pinot Noir  ,94,201.33
+"Chateau Durfort-Vivens,  Margaux",  Bordeaux Blend Red  ,92,489.33
+"Domaine Jean-Louis Chave  Hermitage Blanc, Rhone",  Marsanne - Roussanne  ,95,949.33
+"Domaine  Francois Raveneau Les Clos, Chablis Grand Cru",  Chardonnay  ,95,873.33
+"Domaine  Georges & Christophe Roumier Les Amoureuses, Chambolle-Musigny Premier Cru",  Pinot Noir  ,95,298.67
+"Joseph  Drouhin Marquis de Laguiche Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,94,1016.0
+"Domaine  des Comtes Lafon Meursault Clos de la Barre, Cote de Beaune",  Chardonnay  ,91,842.67
+"Pierre  Peters Cuvee Speciale 'Les Chetillons' Blanc de Blancs Grand Cru Brut, Champagne",  Chardonnay  ,94,40.0
+"M. Chapoutier  Ermitage Le Pavillon, Rhone",  Syrah  ,95,802.67
+"Veuve Clicquot  Ponsardin Vintage Brut, Champagne",  Champagne Blend  ,91,594.67
+"Domaine de Trevallon, IGP  Alpilles",  Cabernet - Syrah/Shiraz  ,92,1052.0
+"Domaine  Dujac Aux Malconsorts, Vosne-Romanee Premier Cru",  Pinot Noir  ,93,898.67
+"Chateau  Cos d'Estournel 'Les Pagodes de Cos', Saint-Estephe",  Bordeaux Blend Red  ,91,374.67
+"Henri  Bonneau Chateauneuf-du-Pape Reserve des Celestins, Rhone",  Southern Rhone Red Blend  ,94,618.67
+"Sylvain  Cathiard Aux Malconsorts, Vosne-Romanee Premier Cru",  Pinot Noir  ,93,672.0
+"Krug Clos  d'Ambonnay Blanc de Noirs Brut, Champagne",  Pinot Noir  ,96,910.67
+"Chateau  Belair-Monange, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,94,905.33
+"Moet & Chandon Brut  Imperial, Champagne",  Champagne Blend  ,88,350.67
+"Chartreuse Verte Green  Liqueur, Isere",  Liqueur - Herb - Spice  ,96,390.67
+"Bollinger  Vieilles Vignes Francaises Blanc de Noirs, Champagne",  Pinot Noir  ,95,1124.0
+"Baron Philippe de  Rothschild Mouton Cadet, Bordeaux",  Bordeaux Blend Red  ,85,97.33
+"Chateau  Ducru-Beaucaillou 'La Croix de Beaucaillou', Saint-Julien",  Cabernet Sauvignon - Merlot  ,91,382.67
+"Chateau Les Ormes-de-Pez,  Saint-Estephe",  Bordeaux Blend Red  ,90,244.0
+"Domaine  Leroy Les Beaux Monts, Vosne-Romanee Premier Cru",  Pinot Noir  ,96,338.67
+"Pol Roger Vintage Brut, Champagne,",  Chardonnay - Pinot Noir  ,92,676.0
+"Domaine  Armand Rousseau Pere et Fils Ruchottes-Chambertin Grand Cru 'Clos des Ruchottes' Monopole, Cote  de Nuits",  Pinot Noir  ,94,521.33
+"Chateau d'Yquem 'Y' Ygrec, Bordeaux,",  Sauvignon Blanc - Semillon  ,92,20.0
+"Bollinger Special Cuvee Brut,  Champagne",  Champagne Blend  ,92,416.0
+"Chateau Smith Haut  Lafitte Blanc, Pessac-Leognan",  Bordeaux Blend White  ,94,937.33
+"Chateau Siran, Margaux",  Bordeaux Blend Red  ,90,253.33
+"Chateau Larcis  Ducasse, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,93,586.67
+"Domaine  Leroy Clos de Vougeot Grand Cru, Cote de Nuits",  Pinot Noir  ,95,878.67
+"Duffau-Lagarrosse  Chateau Beausejour, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,94,872.0
+"Domaine  Dujac Clos Saint-Denis Grand Cru, Cote de Nuits",  Pinot Noir  ,94,370.67
+"Domaine Leflaive  Macon-Verze, Burgundy",  Chardonnay  ,89,464.0
+"Dom  Perignon Luminous Collection Brut Millesime, Champagne",  Champagne Blend  ,95,941.33
+"Armand de Brignac  Ace of Spades Gold Brut, Champagne",  Champagne Blend  ,91,761.33
+"Domaine  Prieure Roch Le Clos des Corvees, Nuits-Saint-Georges Premier Cru",  Pinot Noir  ,91,772.0
+"Domaine  de la Romanee-Conti Corton-Charlemagne Grand Cru, Cote de Beaune",  Chardonnay  ,95,356.0
+"Domaine  Marquis d'Angerville Clos des Ducs, Volnay Premier Cru",  Pinot Noir  ,94,761.33
+"Jacques  Selosse Initial Blanc de Blancs Grand Cru Brut, Champagne",  Chardonnay  ,93,674.67
+"Chateau Potensac, Medoc",  Bordeaux Blend Red  ,90,212.0
+"Pavillon Blanc du Chateau  Margaux, Bordeaux",  Sauvignon Blanc  ,94,745.33
+"Emmanuel  Rouget Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,93,480.0
+"Chateau Latour  Le Pauillac de Latour, Pauillac",  Bordeaux Blend Red  ,90,628.0
+"Domaine  Ramonet Batard-Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,94,844.0
+"Domaine  des Comtes Lafon Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,96,844.0
+"Chateau d'Angludet, Margaux,",  Bordeaux Blend Red  ,89,326.67
+"Domaine  Henri Boillot Clos de la Mouchere Monopole, Puligny-Montrachet Premier Cru",  Chardonnay  ,93,289.33
+"Domaine  Gros Frere et Soeur Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,92,332.0
+"Domaine  Georges & Christophe Roumier Musigny Grand Cru, Cote de Nuits",  Pinot Noir  ,96,592.0
+"La  Chapelle de La Mission Haut-Brion, Pessac-Leognan",  Bordeaux Blend Red  ,91,602.67
+"Domaine Leflaive Bourgogne  Blanc, Burgundy",  Chardonnay  ,89,848.0
+"Coche-Dury Bourgogne  Chardonnay, Burgundy",  Chardonnay  ,90,210.67
+"Domaine  Fourrier Gevrey-Chambertin Vieilles Vignes, Cote de Nuits",  Pinot Noir  ,90,1214.67
+"Domaine  Jacques-Frederic Mugnier Les Amoureuses, Chambolle-Musigny Premier Cru",  Pinot Noir  ,94,1302.67
+"E. Guigal Chateau d'Ampuis Cote  Rotie, Rhone",  Syrah  ,93,790.67
+"Chateau Pedesclaux, Pauillac,",  Bordeaux Blend Red  ,91,326.67
+"Chateau Latour a Pomerol, Pomerol,",  Cabernet Franc - Merlot  ,92,733.33
+"Chateau Grand-Pontet,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,89,220.0
+"Chateau Tour Saint  Christophe, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91,253.33
+"Domaine  Leroy Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,97,749.33
+"Domaine  Arnoux-Lachaux Vosne-Romanee, Cote de Nuits",  Pinot Noir  ,89,1168.0
+"Domaine  Fourrier Clos Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,94,633.33
+"Domaine  Leflaive Bienvenues-Batard-Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,94,396.0
+"Veuve Clicquot  Ponsardin Yellow Label Brut, Champagne",  Champagne Blend  ,89,408.0
+"Chateau Senejac, Haut-Medoc",  Bordeaux Blend Red  ,88,130.67
+"M. Chapoutier  Ermitage l'Ermite, Rhone",  Syrah  ,96,932.0
+Remy Martin V.S.O.P. Fine  Champagne Cognac,  Brandy  ,89,358.67
+"Chateau Dauzac, Margaux",  Bordeaux Blend Red  ,91,342.67
+"Coche-Dury  Les Perrieres, Meursault Premier Cru",  Chardonnay  ,96,813.33
+"Domaine  Jacques-Frederic Mugnier Chambolle-Musigny, Cote de Nuits",  Pinot Noir  ,90,26.67
+"Comte  Armand Clos des Epeneaux Monopole, Pommard Premier Cru",  Pinot Noir  ,92,1214.67
+"Domaine  Henri Boillot Clos de la Mouchere Monopole, Puligny-Montrachet Premier Cru",  Chardonnay  ,93,289.33
+"Domaine  Gros Frere et Soeur Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,92,332.0
+"Domaine  Georges & Christophe Roumier Musigny Grand Cru, Cote de Nuits",  Pinot Noir  ,96,592.0
+"La  Chapelle de La Mission Haut-Brion, Pessac-Leognan",  Bordeaux Blend Red  ,91,602.67
+"Domaine Leflaive Bourgogne  Blanc, Burgundy",  Chardonnay  ,89,848.0
+"Coche-Dury Bourgogne  Chardonnay, Burgundy",  Chardonnay  ,90,210.67
+"Domaine  Fourrier Gevrey-Chambertin Vieilles Vignes, Cote de Nuits",  Pinot Noir  ,90,1214.67
+"Domaine  Jacques-Frederic Mugnier Les Amoureuses, Chambolle-Musigny Premier Cru",  Pinot Noir  ,94,1302.67
+"E. Guigal Chateau d'Ampuis Cote  Rotie, Rhone",  Syrah  ,93,790.67
+"Chateau Pedesclaux, Pauillac,",  Bordeaux Blend Red  ,91,326.67
+"Chateau Latour a Pomerol, Pomerol,",  Cabernet Franc - Merlot  ,92,733.33
+"Chateau Grand-Pontet,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,89,220.0
+"Chateau Tour Saint  Christophe, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91,253.33
+"Domaine  Leroy Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,97,749.33
+"Domaine  Arnoux-Lachaux Vosne-Romanee, Cote de Nuits",  Pinot Noir  ,89,1168.0
+"Domaine  Fourrier Clos Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,94,633.33
+"Domaine  Leflaive Bienvenues-Batard-Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,94,396.0
+"Veuve Clicquot  Ponsardin Yellow Label Brut, Champagne",  Champagne Blend  ,89,408.0
+"Chateau Senejac, Haut-Medoc",  Bordeaux Blend Red  ,88,130.67
+"M. Chapoutier  Ermitage l'Ermite, Rhone",  Syrah  ,96,932.0
+Remy Martin V.S.O.P. Fine  Champagne Cognac,  Brandy  ,89,358.67
+"Chateau Dauzac, Margaux",  Bordeaux Blend Red  ,91,342.67
+"Coche-Dury  Les Perrieres, Meursault Premier Cru",  Chardonnay  ,96,813.33
+"Domaine  Jacques-Frederic Mugnier Chambolle-Musigny, Cote de Nuits",  Pinot Noir  ,90,26.67
+"Comte  Armand Clos des Epeneaux Monopole, Pommard Premier Cru",  Pinot Noir  ,92,1214.67
+"Clos Rougeard  Saumur-Champigny, Loire",  Cabernet Franc  ,91,305.33
+"Meo-Camuzet  Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,95,434.67
+"Chateau Latour-Martillac,  Pessac-Leognan",  Bordeaux Blend Red  ,91,269.33
+"Domaine  Comte Georges de Vogue Chambolle-Musigny Premier Cru, Cote de Nuits",  Pinot Noir  ,92,650.67
+"Chateau Lanessan, Haut-Medoc,",  Bordeaux Blend Red  ,89,154.67
+"Domaine Jean  Foillard Morgon Cote du Py, Beaujolais",  Gamay  ,91,261.33
+"Chateau Mangot, Saint-Emilion  Grand Cru",  Bordeaux Blend Red  ,90,170.67
+"Chateau Haut-Marbuzet,  Saint-Estephe",  Bordeaux Blend Red  ,90,326.67
+"Domaine  Georges Mugneret-Gibourg Vosne-Romanee, Cote de Nuits",  Pinot Noir  ,90,276.0
+"Rayas Chateau des Tours  Cotes du Rhone Rouge Reserve, Rhone",  Cinsault - Grenache - Syrah  ,90,1100.0
+"Chateau Beaumont, Haut-Medoc,",  Bordeaux Blend Red  ,88,130.67
+"Domaine  Ramonet Les Ruchottes, Chassagne-Montrachet Premier Cru",  Chardonnay  ,92,757.33
+"Bouchard  Pere & Fils Greves Vignes de L'Enfant Jesus, Beaune Premier Cru",  Pinot Noir  ,91,1026.67
+"Domaine  de la Janasse Cuvee Vieilles Vignes, Chateauneuf-du-Pape",  Southern Rhone Red Blend  ,94,570.67
+E. Guigal Cotes du Rhone,  Southern Rhone Red Blend  ,88,105.33
+"Jacques  Selosse Substance Blanc de Blancs Grand Cru Brut, Champagne",  Chardonnay  ,95,348.0
+"Chateau de Camensac, Haut-Medoc,",  Bordeaux Blend Red  ,88,244.0
+"Domaine  Denis Mortet Lavaux Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,93,1290.67
+"Domaine  Arnoux-Lachaux Echezeaux Les Rouges Grand Cru, Cote de Nuits",  Pinot Noir  ,93,1088.0
+"Domaine  Hubert Lamy En Remilly, Saint-Aubin Premier Cru",  Chardonnay  ,91,20.0
+"Domaine Leroy Bourgogne Blanc,  Burgundy",  Chardonnay  ,89,198.67
+"Chateau Marjosse, Bordeaux",  Bordeaux Blend Red  ,88,89.33
+"Joseph  Drouhin Clos des Mouches, Beaune Premier Cru",  Pinot Noir  ,91,856.0
+"Hennessy 'Richard Hennessy' Cognac,",  Brandy  ,98,729.33
+"Domaine  Jean Yves Bizot Vosne-Romanee, Cote de Nuits",  Pinot Noir  ,89,632.0
+"Domaine Tempier Bandol Rose,  Provence",  Southern Rhone Red Blend  ,91,285.33
+"Domaine  Arnoux-Lachaux Romanee-Saint-Vivant Grand Cru, Cote de Nuits",  Pinot Noir  ,95,254.67
+"Chateau Nenin, Pomerol",  Bordeaux Blend Red  ,92,513.33
+"Cedric  Bouchard Roses de Jeanne 'VV-Cote de Val Vilaine' Blanc de Noirs, Champagne",  Pinot Noir  ,92,370.67
+"Domaine  des Comtes Lafon Perrieres, Meursault Premier Cru",  Chardonnay  ,94,478.67
+"Domaine  Leroy Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,98,870.67
+"Domaine  Denis Mortet Gevrey-Chambertin Mes Cinq Terroirs, Gevrey-Chambertin",  Pinot Noir  ,91,905.33
+"Domaine  Faiveley Corton 'Clos des Cortons Faiveley' Monopole Grand Cru, Cote de Beaune",  Pinot Noir  ,93,77.33
+"Chateau Marquis de Terme,  Margaux",  Bordeaux Blend Red  ,91,326.67
+"Chateau Lafaurie-Peyraguey,  Sauternes",  Sauvignon Blanc - Semillon  ,93,448.0
+"Domaine  Jean Yves Bizot Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,92,1046.67
+"Chateau  de Beaucastel Chateauneuf-du-Pape Blanc Roussanne Vieilles Vignes, Rhone",  Roussanne  ,95,1117.33
+"Vignobles  de la Coulee de Serrant 'Clos de la Coulee de Serrant', Loire",  Chenin Blanc  ,93,766.67
+"Chateau  Bellefont-Belcier, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91,317.33
+"Domaine  Anne Gros Clos de Vougeot Grand Cru Le Grand Maupertui, Cote de Nuits",  Pinot Noir  ,92,981.33
+"Meo-Camuzet  Les Chaumes, Vosne-Romanee Premier Cru",  Pinot Noir  ,91,598.67
+"Domaine  Dujac Aux Combottes, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,92,936.0
+"Clos L'Eglise, Pomerol",  Bordeaux Blend Red  ,92,685.33
+"Segla, Margaux",  Bordeaux Blend Red  ,90,309.33
+"Domaine  Denis Bachelet Gevrey-Chambertin Vieilles Vignes, Cote de Nuits",  Pinot Noir  ,91,1026.67
+"Claude Dugat  Gevrey-Chambertin, Cote de Nuits",  Pinot Noir  ,90,880.0
+"Chateau Barde-Haut,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91,269.33
+"Meo-Camuzet  Aux Brulees, Vosne-Romanee Premier Cru",  Pinot Noir  ,94,918.67
+"Domaine  Mongeard-Mugneret Grands Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,93,462.67
+"Louis Roederer Vintage Brut,  Champagne",  Champagne Blend  ,93,578.67
+"Chateau Berliquet,  Saint-Emilion Grand Cru",  Cabernet Franc - Merlot  ,91.0,334.67
+"Thierry Allemand Cornas  Reynard, Rhone",  Syrah  ,95.0,129.33
+"Chateau La Dominique,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,91.0,408.0
+"Chateau Fleur  Cardinale, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,92.0,326.67
+"Pierre-Yves  Colin-Morey Corton Charlemagne Grand Cru, Cote de Beaune",  Chardonnay  ,93.0,340.0
+"Domaine  du Comte Liger-Belair Vosne-Romanee Clos du Chateau Monopole, Cote de Nuits",  Pinot Noir  ,90.0,60.0
+"Chateau Rayas  Chateauneuf-du-Pape Pignan Reserve, Rhone",  Grenache (Garnacha)  ,92.0,417.33
+"Chateau de Fonsalette Cotes du  Rhone Reserve, Rhone",  Southern Rhone Red Blend  ,91.0,398.67
+"Le Carillon  de l'Angelus, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,90.0,741.33
+"Charles Heidsieck  Blanc des Millenaires, Champagne",  Chardonnay  ,94.0,1280.0
+"Chateau Carbonnieux,  Pessac-Leognan",  Bordeaux Blend Red  ,90.0,277.33
+"Alain  Hudelot-Noellat Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,96.0,214.67
+"Domaine  Leflaive Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,95.0,1078.67
+"Chateau d'Aiguilhe, Castillon  Cotes de Bordeaux",  Cabernet Franc - Merlot  ,90.0,178.67
+"Domaine  Dujac Bonnes-Mares Grand Cru, Cote de Nuits",  Pinot Noir  ,95.0,660.0
+"Charles Heidsieck Brut  Millesime, Champagne",  Champagne Blend  ,92.0,676.0
+"Delamotte Blanc de  Blancs Vintage Brut, Champagne",  Chardonnay  ,91.0,798.67
+"Chateau Fombrauge,  Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,90.0,244.0
+"Domaine  Leroy Romanee-Saint-Vivant Grand Cru, Cote de Nuits",  Pinot Noir  ,98.0,389.33
+"Domaine  Prieure Roch Nuits-Saint-Georges Premier Cru Vieilles Vignes, Cote de Nuits",  Pinot Noir  ,91.0,645.33
+Pavan  Liqueur,  Liqueur - Fruit  ,,220.0
+"Domaine  Faiveley Chambertin Clos de Beze Grand Cru, Cote de Nuits",  Pinot Noir  ,94.0,6.67
+"Chateau Labegorce, Margaux,",  Bordeaux Blend Red  ,90.0,261.33
+"Domaine  de la Romanee-Conti Cuvee Duvault Blochet, Vosne-Romanee Premier Cru",  Pinot Noir  ,91.0,514.67
+"Chateau Pape Clement  Blanc, Pessac-Leognan",  Sauvignon Blanc - Semillon  ,92.0,921.33
+"Chateau Lilian Ladouys,  Saint-Estephe",  Bordeaux Blend Red  ,90.0,178.67
+"Domaine Arnaud  Ente Meursault, Cote de Beaune",  Chardonnay  ,91.0,988.0
+"Domaine  Francois Raveneau Valmur, Chablis Grand Cru",  Chardonnay  ,94.0,237.33
+"Domaine  Jean Grivot Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,96.0,1205.33
+"Domaine  Prieure Roch Ladoix Le Cloud - Le Clou Rouge, Cote de Beaune",  Pinot Noir  ,90.0,1144.0
+"Henri Giraud  'Argonne' Ay Grand Cru Brut, Champagne",  Chardonnay - Pinot Noir  ,94.0,496.0
+"Domaine  Jacques-Frederic Mugnier Les Fuees, Chambolle-Musigny Premier Cru",  Pinot Noir  ,92.0,1036.0
+"Krug Collection Brut, Champagne,",  Champagne Blend  ,95.0,553.33
+"Meo-Camuzet  Au Cros Parantoux, Vosne-Romanee Premier Cru",  Pinot Noir  ,95.0,353.33
+"Chateau Le Gay, Pomerol",  Bordeaux Blend Red  ,92.0,766.67
+"Domaine  du Comte Liger-Belair Aux Reignots, Vosne-Romanee Premier Cru",  Pinot Noir  ,94.0,708.0
+"Rene et Vincent  Dauvissat-Camus Chablis, Burgundy",  Chardonnay  ,90.0,741.33
+"Domaine Roulot Bourgogne Blanc,  Burgundy",  Chardonnay  ,88.0,1108.0
+"Chateau Certan 'De May de Certan',  Pomerol",  Bordeaux Blend Red  ,92.0,822.67
+"Domaine  Robert Groffier Pere & Fils Bonnes-Mares Grand Cru, Cote de Nuits",  Pinot Noir  ,94.0,369.33
+"Domaine des  Comtes Lafon Meursault, Cote de Beaune",  Chardonnay  ,90.0,198.67
+"William Fevre Les  Clos, Chablis Grand Cru",  Chardonnay  ,93.0,937.33
+"Groupe Duclot Bordeaux Prestige  Collection Case, Bordeaux",  Bordeaux Blend Red  ,,0.0
+"Domaine  Michel Lafarge Clos des Chenes, Volnay Premier Cru",  Pinot Noir  ,93.0,777.33
+"Domaine Leroy Bourgogne  Aligote, Burgundy",  Aligote  ,89.0,1177.33
+"Bouchard  Pere & Fils Montrachet Grand Cru, Cote de Beaune",  Chardonnay  ,94.0,380.0
+"Domaine  Dugat-Py Charmes-Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,94.0,1205.33
+"Louis-Benjamin  - Didier Dagueneau Pur Sang, Loire, Vin d",  Sauvignon Blanc  ,93.0,896.0
+"Henri  Jayer Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,94.0,833.33
+"La Mondotte,  Saint-Emilion Grand Cru",  Cabernet Franc - Merlot  ,94.0,77.33
+"Ulysse  Collin 'Les Maillons' Blanc de Noirs Extra Brut, Champagne",  Pinot Noir  ,92,1266.67
+"Domaine  Rossignol-Trapet Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,94,858.67
+"Domaine  Bruno Clair Chambertin-Clos de Beze Grand Cru, Cote de Nuits",  Pinot Noir  ,94,700.0
+"Domaine  A.F. Gros Vosne-Romanee Aux Reas, Cote de Nuits",  Pinot Noir  ,90,961.33
+"M. Chapoutier  Ermitage de l'Oree Blanc, Rhone",  Marsanne  ,94,101.33
+"Sylvain  Cathiard Romanee-Saint-Vivant Grand Cru, Cote de Nuits",  Pinot Noir  ,95,1146.67
+"Chateau Marquis  d'Alesme Becker, Margaux",  Bordeaux Blend Red  ,91,326.67
+"Domaine  Armand Rousseau Pere et Fils Mazis-Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,94,1198.67
+"Chateau La Clemence, Pomerol,",  Bordeaux Blend Red  ,89,424.0
+"Chateau Lascombes  'Chevalier de Lascombes', Margaux",  Cabernet Sauvignon - Merlot  ,87,228.0
+"Mas de Daumas  Gassac, IGP Saint-Guilhem-le-Desert",  Red Blend  ,90,440.0
+"Coche-Dury  Meursault Les Rougeots, Cote de Beaune",  Chardonnay  ,93,177.33
+Hennessy Privilege V.S.O.P.  Cognac,  Brandy  ,85,440.0
+"Domaine  de la Vougeraie Le Clos Blanc de Vougeot Monopole, Vougeot Premier Cru",  Chardonnay  ,92,864.0
+Remy Martin  X.O. Excellence-Special Fine Champagne Cognac,  Brandy  ,93,1312.0
+"Rene  et Vincent Dauvissat-Camus Les Preuses, Chablis Grand Cru",  Chardonnay  ,95,137.33
+"Chateau Talbot  'Connetable Talbot', Saint-Julien",  Bordeaux Blend Red  ,88,220.0
+Chateau de Laubade Armagnac,  Brandy  ,92,109.33
+"Domaine  Arnoux-Lachaux Chambolle-Musigny, Cote de Nuits",  Pinot Noir  ,90,312.0
+"Chateau Lafleur 'Les Pensees  de Lafleur', Pomerol",  Bordeaux Blend Red  ,92,1190.67
+"E. Guigal Condrieu La Doriane,  Rhone",  Viognier  ,93,594.67
+"Domaine  Jean Grivot Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,94,773.33
+"Domaine  Denis Bachelet Charmes-Chambertin Grand Cru Vieilles Vignes, Cote de Nuits",  Pinot Noir  ,94,1228.0
+"Taittinger Brut Reserve, Champagne,",  Champagne Blend  ,89,342.67
+"Sylvain  Cathiard Vosne-Romanee, Cote de Nuits",  Pinot Noir  ,90,1258.67
+"Domaine  Georges Mugneret-Gibourg Ruchottes-Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,95,586.67
+"Clos Rougeard  Saumur-Champigny Le Bourg, Loire",  Cabernet Franc  ,94,878.67
+"Domaine  Anne Gros Echezeaux Les Loachausses Grand Cru, Cote de Nuits",  Pinot Noir  ,92,1177.33
+"Domaine  Jean-Jacques Confuron Romanee-Saint-Vivant Grand Cru, Cote de Nuits",  Pinot Noir  ,94,564.0
+"F E Trimbach  Riesling Cuvee Frederic Emile, Alsace",  Riesling  ,93,489.33
+"Joseph  Drouhin Musigny Grand Cru, Cote de Nuits",  Pinot Noir  ,94,818.67
+"Domaine  Hubert Lignier Clos de la Roche Grand Cru, Cote de Nuits",  Pinot Noir  ,95,1216.0
+"Domaine  Cecile Tremblay Chapelle-Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,94,1020.0
+"Domaine  Prieure Roch Les Suchots, Vosne-Romanee Premier Cru",  Pinot Noir  ,93,424.0
+"Chateau La  Mission Haut-Brion Blanc, Pessac-Leognan",  Bordeaux Blend White  ,94,42.67
+"Chateau  Leoville-Las Cases 'Le Petit Lion du Marquis de Las Cases', Saint Julien",  Bordeaux Blend Red  ,90,440.0
+"Chateau Guadet, Saint-Emilion  Grand Cru",  Bordeaux Blend Red  ,90,350.67
+"Domaine  des Comtes Lafon Volnay Santenots-du-Milieu, Volnay Premier Cru",  Pinot Noir  ,92,1149.33
+"Domaine Jean-Louis Chave  Saint-Joseph, Rhone",  Syrah  ,92,644.0
+"Paul  Jaboulet Aine Domaine de Thalabert Crozes-Hermitage, Rhone",  Syrah  ,90,244.0
+"Domaine  Armand Rousseau Pere et Fils Lavaux Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,91,837.33
+"Domaine  Dujac Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,93,921.33
+"Cedric  Bouchard Roses de Jeanne 'UR-Les Ursules' Blanc de Noirs, Champagne",  Pinot Noir  ,93,186.67
+"Domaine  Dugat-Py Gevrey-Chambertin Cuvee Coeur de Roy Tres Vieilles Vignes, Cote de Nuits",  Pinot Noir  ,91,1108.0
+"Pol Roger Brut Reserve, Champagne,",  Champagne Blend  ,90,366.67
+"Le Petit  Ducru de Ducru-Beaucaillou, Saint Julien",  Bordeaux Blend Red  ,90,228.0
+"Domaine  A.F. Gros Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,94,350.67
+"Domaine  Leflaive Les Folatieres, Puligny-Montrachet Premier Cru",  Chardonnay  ,92,1090.67
+"Aile d'Argent  Blanc du Chateau Mouton Rothschild, Bordeaux",  Bordeaux Blend White  ,92,798.67
+"Domaine  Ramonet Chassagne-Montrachet, Cote de Beaune",  Chardonnay  ,89,1206.67
+"Leroy  Domaine d'Auvenay Bourgogne Aligote Sous Chatelet, Burgundy",  Aligote  ,93,784.0
+"Chateau Smith  Haut Lafitte 'Le Petit Smith Haut Lafitte', Pessac-Leognan",  Cabernet Sauvignon - Merlot  ,91,253.33
+"Thibault  Liger-Belair Richebourg Grand Cru, Cote de Nuits",  Pinot Noir  ,94,1170.67
+"Chateau  Calon-Segur Marquis de Calon, Saint-Estephe",  Bordeaux Blend Red  ,90,236.0
+"Domaine  Mongeard-Mugneret Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,92,1112.0
+"Chateau La Tour Blanche,  Sauternes",  Semillon  ,92,440.0
+"Domaine  Comte Georges de Vogue Chambolle-Musigny, Cote de Nuits",  Pinot Noir  ,90,1030.67
+"Domaine  Roulot Clos des Boucheres Monopole, Meursault Premier Cru",  Chardonnay  ,93,564.0
+"Clos Saint-Jean  Deus-Ex Machina Chateauneuf-du-Pape, Rhone",  Southern Rhone Red Blend  ,94,896.0
+"Chateau de Sales, Pomerol",  Bordeaux Blend Red  ,90,244.0
+"Domaine  Marquis d'Angerville Champans, Volnay Premier Cru",  Pinot Noir  ,92,1157.33
+"Domaine  Dujac Charmes-Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,92,1160.0
+"Chateau Moulin  Saint-Georges, Saint-Emilion Grand Cru",  Cabernet Franc - Merlot  ,91,277.33
+"Denis  Dubourdieu Chateau Doisy-Daene, Sauternes - Barsac",  Sauvignon Blanc - Semillon  ,93,358.67
+"Chateau de Beaucastel Cotes  du Rhone Coudoulet de Beaucastel, Rhone",  Southern Rhone Red Blend  ,90,188.0
+"Domaine Rene Rostaing Cote  Rotie Cote Blonde, Rhone",  Syrah  ,94,1254.67
+"E. Guigal Cote Rotie Brune  et Blonde de Guigal, Rhone",  Syrah  ,91,473.33
+"Chateau  Gruaud-Larose 'Sarget de Gruaud-Larose', Saint-Julien",  Bordeaux Blend Red  ,89,212.0
+"Billecart-Salmon  'Cuvee Elisabeth Salmon' Brut Rose Millesime, Champagne",  Champagne Blend  ,94,125.33
+"Domaine  Jacques Prieur Musigny Grand Cru, Cote de Nuits",  Pinot Noir  ,94,829.33
+"Louis  Jadot Domaine des Heritiers Corton-Charlemagne Grand Cru, Cote de Beaune",  Chardonnay  ,93,166.67
+"Coche-Dury  Puligny-Montrachet Les Enseigneres, Cote de Beaune",  Chardonnay  ,92,280.0
+"Chateau-Grillet, Rhone",  Viognier  ,94,1185.33
+"Domaine  Georges Mugneret-Gibourg Echezeaux Grand Cru, Cote de Nuits",  Pinot Noir  ,94,240.0
+"Domaine  Jean Grivot Les Beaux Monts, Vosne-Romanee Premier Cru",  Pinot Noir  ,93,785.33
+"Chateau de Pez, Saint-Estephe,",  Bordeaux Blend Red  ,90,301.33
+"Emmanuel Rouget  Vosne-Romanee, Cote de Nuits",  Pinot Noir  ,90,252.0
+"Hennessy Paradis Rare Cognac,",  Brandy  ,93,257.33
+"Joseph  Drouhin Clos des Mouches Blanc, Beaune Premier Cru",  Chardonnay  ,92,1157.33
+"Chateau Canon, Canon-Fronsac",  Bordeaux Blend Red  ,88,228.0
+"Domaine  Sylvie Esmonin Clos Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,93,321.33
+"Chateau de Fargues, Sauternes,",  Semillon  ,94,701.33
+"Laurent-Perrier Brut  Millesime, Champagne",  Champagne Blend  ,91,497.33
+"Louis  Jadot Clos Saint-Jacques, Gevrey-Chambertin Premier Cru",  Pinot Noir  ,93,12.0
+"Bollinger La Grande Annee  Rose, Champagne",  Champagne Blend  ,94,1238.67
+"Domaine  Georges Mugneret-Gibourg Les Chaignots, Nuit Saint Georges Premier Cru",  Pinot Noir  ,92,878.67
+"Henri  Giraud Fut de Chene MV Ay Grand Cru Brut, Champagne",  Champagne Blend  ,93,1264.0
+"Chateau Cissac, Haut-Medoc",  Bordeaux Blend Red  ,88,178.67
+"Chateau Lynch-Bages Blanc de  Lynch-Bages, Bordeaux",  Bordeaux Blend White  ,90,448.0
+"Chartreuse V.E.P. Verte  Green Liqueur, Isere",  Liqueur - Herb - Spice  ,96,785.33
+"Domaine  Comte Georges de Vogue Les Amoureuses, Chambolle-Musigny Premier Cru",  Pinot Noir  ,94,689.33
+"Clos Rougeard  Saumur-Champigny Les Poyeux, Loire",  Cabernet Franc  ,93,1062.67
+"Chateau Clarke, Listrac-Medoc,",  Bordeaux Blend Red  ,89,285.33
+Chateau Miraval Cotes de Provence  Rose,  Cinsault - Grenache  ,89,146.67
+"Jacques Selosse Brut Rose,  Champagne",  Champagne Blend  ,94,1289.33
+"Domaine  de la Janasse Chateauneuf-du-Pape Cuvee Chaupin, Rhone",  Grenache (Garnacha)  ,93,432.0
+"Domaine  Dugat-Py Chambertin Grand Cru, Cote de Nuits",  Pinot Noir  ,96,373.33
+"Louis  Latour Chateau Corton Grancey Grand Cru, Cote de Beaune",  Pinot Noir  ,92,814.67
+"Chateau Cos Labory,  Saint-Estephe",  Bordeaux Blend Red  ,90,261.33
+"Chateau Petit  Faurie de Soutard, Saint-Emilion Grand Cru",  Bordeaux Blend Red  ,89,489.33
